@@ -1,0 +1,68 @@
+# Plant Care Bot v2.1 ENHANCED - Залежності
+
+# ======================== КОМП'ЮТЕРНЕ БАЧЕННЯ ========================
+# OpenCV з CUDA підтримкою для GPU прискорення (RTX 4070 Ti)
+opencv-python>=4.8.0
+# Альтернатива з CUDA (якщо потрібне GPU прискорення):
+# opencv-contrib-python>=4.8.0
+
+# Обробка зображень
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# ======================== OCR (РОЗПІЗНАВАННЯ ТЕКСТУ) ========================
+# Tesseract OCR wrapper
+pytesseract>=0.3.10
+
+# ======================== АВТОМАТИЗАЦІЯ GUI ========================
+# Керування мишкою та клавіатурою
+pyautogui>=0.9.54
+
+# ======================== СИСТЕМНІ УТИЛІТИ ========================
+# Моніторинг системи (CPU, RAM, GPU)
+psutil>=5.9.0
+
+# Робота з вікнами Windows
+pywin32>=306
+
+# ======================== ДОДАТКОВІ УТИЛІТИ ========================
+# Для нечіткого пошуку тексту (OCR помилки)
+python-Levenshtein>=0.21.0
+
+# Прогрес-бари (опціонально)
+tqdm>=4.66.0
+
+# ======================== ІНСТРУКЦІЇ ========================
+# 
+# ВСТАНОВЛЕННЯ:
+# pip install -r requirements.txt
+#
+# ДЛЯ GPU ПРИСКОРЕННЯ (OpenCV CUDA):
+# 1. Завантажте OpenCV з CUDA:
+#    https://github.com/opencv/opencv/releases
+# 2. Встановіть CUDA Toolkit 11.8+:
+#    https://developer.nvidia.com/cuda-downloads
+# 3. Встановіть cuDNN:
+#    https://developer.nvidia.com/cudnn
+# 4. pip install opencv-contrib-python
+#
+# TESSERACT OCR:
+# 1. Завантажте інсталятор:
+#    https://github.com/UB-Mannheim/tesseract/wiki
+# 2. Встановіть за шляхом: C:\Program Files\Tesseract-OCR\
+# 3. Додайте мовні пакети (ukr, rus, eng):
+#    https://github.com/tesseract-ocr/tessdata
+# 4. Скопіюйте .traineddata файли в:
+#    C:\Program Files\Tesseract-OCR\tessdata\
+#
+# ПЕРЕВІРКА ВСТАНОВЛЕННЯ:
+# python -c "import cv2; print('OpenCV:', cv2.__version__)"
+# python -c "import cv2; print('CUDA:', cv2.cuda.getCudaEnabledDeviceCount() > 0)"
+# python -c "import pytesseract; print(pytesseract.get_tesseract_version())"
+#
+# РЕКОМЕНДОВАНІ СИСТЕМНІ ВИМОГИ:
+# • CPU: Intel i5-13400F або кращий (10+ ядер)
+# • GPU: RTX 4070 Ti або кращий (CUDA 8.9+)
+# • RAM: 32 GB DDR5
+# • Python: 3.8+
+# • Windows 10/11 64-bit
