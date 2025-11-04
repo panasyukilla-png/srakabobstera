@@ -1,5 +1,5 @@
 """
-bot.py - Повністю інтегрований Plant Care Bot v2.1
+bot.py - Повністю інтегрований Plant Care Bot v2.1 - ВИПРАВЛЕНО
 """
 import threading
 import time
@@ -35,7 +35,7 @@ class PlantCareBot:
         # Ініціалізація системи логування
         setup_enhanced_logging()
         
-        logging.info("🚀 Ініціалізація Plant Care Bot v2.1 ENHANCED...")
+        logging.info("🚀 Ініціалізація Plant Care Bot v2.1 ENHANCED (FIXED)...")
         
         # Перевірка Tesseract
         if not self._check_tesseract():
@@ -131,7 +131,7 @@ class PlantCareBot:
     def _log_system_status(self):
         """Логування стану системи."""
         logging.info("=" * 80)
-        logging.info("🌱 PLANT CARE BOT v2.1 - ГОТОВИЙ ДО РОБОТИ")
+        logging.info("🌱 PLANT CARE BOT v2.1 - ГОТОВИЙ ДО РОБОТИ (FIXED)")
         logging.info("=" * 80)
         logging.info(f"📝 Конфігурація:")
         logging.info(f"   • Паразитів у базі: {len(self.config.parasites)}")
@@ -231,19 +231,18 @@ class PlantCareBot:
         """
         Головний цикл моніторингу з розумною обробкою.
         
-        Алгоритм:
-        1. Захоплення екрану (через Window Manager якщо є)
-        2. Аналіз (OCR + розпізнавання об'єктів)
-        3. Виконання дій згідно пріоритетів
-        4. Періодична перевірка води
-        5. Логування статистики
+        ВИПРАВЛЕННЯ:
+        - Знижено поріг впевненості з 30% до 15%
+        - Додано детальне логування розпізнаного тексту
+        - Покращена діагностика
         """
         consecutive_errors = 0
         max_errors = 5
         start_time = time.time()
         
-        logging.info("🔄 Головний цикл моніторингу розпочато")
+        logging.info("🔄 Головний цикл моніторингу розпочато (FIXED)")
         logging.info(f"⏱️ Параметри: сканування={self.poll_interval}с, скріншоти={self.analyzer.screenshot_interval}с")
+        logging.info(f"🎯 Поріг впевненості: 15% (було 30%)")
         
         while self._running and not self._shutdown_requested:
             try:
@@ -259,22 +258,35 @@ class PlantCareBot:
                 logging.debug(f"🔍 Скан #{self.stats['scans']}...")
                 analysis = self.analyzer.analyze_screen(save_screenshot=True)
                 
-                # Детальне логування результатів
+                # ============ ДЕТАЛЬНЕ ЛОГУВАННЯ (НОВE!) ============
                 if analysis.text:
-                    preview = analysis.text[:80].replace('\n', ' ')
+                    preview = analysis.text[:150].replace('\n', ' ')
                     log_msg = f"🔍 Скан #{self.stats['scans']}: '{preview}...'"
+                    
+                    # Показуємо що знайдено
+                    logging.info(log_msg)
+                    logging.info(f"   📊 OCR: {analysis.text_confidence:.1%}, Загальна: {analysis.confidence:.1%}")
+                    
+                    # Ключові слова
+                    keywords = ['полив', 'вода', 'рослин', 'грунт', 'добрив', 'літр', 'паразит', 
+                                'тля', 'слизн', 'жук', 'медвед', 'трипс', 'клещ']
+                    found_keywords = [kw for kw in keywords if kw in analysis.text.lower()]
+                    if found_keywords:
+                        logging.info(f"   🔑 Ключові слова: {', '.join(found_keywords)}")
                     
                     # Додаткова інформація
                     if analysis.parasites_found or analysis.water_level_low:
                         log_msg += f"\n   📊 {analysis.get_summary()}"
-                        logging.info(log_msg)
-                    else:
-                        logging.debug(log_msg)
+                        logging.info(f"   🎯 {analysis.get_summary()}")
                 else:
                     logging.debug(f"⏭️ Скан #{self.stats['scans']}: текст не знайдено")
                 
-                # ============ ВИКОНАННЯ ДІЙ ============
-                if analysis.confidence > 0.3:
+                # ============ ВИКОНАННЯ ДІЙ (ВИПРАВЛЕНО!) ============
+                # БУЛО: if analysis.confidence > 0.3
+                # СТАЛО: if analysis.confidence > 0.15
+                if analysis.confidence > 0.15:  # ← ГОЛОВНЕ ВИПРАВЛЕННЯ!
+                    logging.info(f"✅ Впевненість {analysis.confidence:.1%} >= 15% - виконую дії")
+                    
                     # Підрахунок паразитів
                     if analysis.parasites_found:
                         self.stats['parasites_found'] += len(analysis.parasites_found)
@@ -287,6 +299,14 @@ class PlantCareBot:
                         action_msg = f"✅ Дію виконано (всього: {self.stats['actions']})"
                         self._log(action_msg)
                         logging.info(action_msg)
+                    else:
+                        logging.debug("⏭️ Дій не виконано (cooldown або інше)")
+                else:
+                    # Покращене логування причини пропуску
+                    logging.warning(f"⏭️ ПРОПУСК: впевненість {analysis.confidence:.1%} < 15%")
+                    if analysis.text:
+                        logging.info(f"   📝 Розпізнано: {len(analysis.text)} символів")
+                        logging.info(f"   💡 Можливо потрібно покращити область аналізу або якість OCR")
                 
                 # ============ ПЕРІОДИЧНІ ПЕРЕВІРКИ ============
                 # Логування статистики кожні 60 секунд

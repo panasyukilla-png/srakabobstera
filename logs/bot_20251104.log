@@ -516,3 +516,1359 @@
 2025-11-04 20:29:24 [INFO] [main:125] ================================================================================
 2025-11-04 20:29:24 [INFO] [main:126] ✅ Plant Care Bot завершено
 2025-11-04 20:29:24 [INFO] [main:127] ================================================================================
+2025-11-04 20:30:59 [INFO] [config:294] ================================================================================
+2025-11-04 20:30:59 [INFO] [config:295] 🌱 Plant Care Bot v2.1 - ENHANCED EDITION
+2025-11-04 20:30:59 [INFO] [config:296] ================================================================================
+2025-11-04 20:30:59 [INFO] [config:297] 💾 Логи зберігаються в: logs\bot_20251104.log
+2025-11-04 20:30:59 [INFO] [config:298] 📸 Скріншоти: logs\screenshots
+2025-11-04 20:30:59 [INFO] [config:299] ⚙️ Конфіг: tasks.txt
+2025-11-04 20:30:59 [INFO] [config:300] 🎮 GPU прискорення: ✅ УВІМКНЕНО
+2025-11-04 20:30:59 [INFO] [config:301] 🧵 CPU потоків: 12
+2025-11-04 20:30:59 [INFO] [config:302] ================================================================================
+2025-11-04 20:30:59 [INFO] [main:71] 🔍 Перевірка системних вимог...
+2025-11-04 20:30:59 [WARNING] [main:40] ⚠️ OpenCV CUDA недоступний - використовується CPU
+2025-11-04 20:30:59 [INFO] [main:41] 💡 Для GPU прискорення встановіть: pip install opencv-contrib-python
+2025-11-04 20:30:59 [ERROR] [main:48] ❌ Tesseract OCR не знайдено:
+C:\Program Files\Tesseract-OCR\tesseract.exe
+
+Завантажте з: https://github.com/UB-Mannheim/tesseract/wiki
+2025-11-04 20:31:05 [ERROR] [main:73] ❌ Системні вимоги не виконані
+2025-11-04 20:31:11 [INFO] [main:125] ================================================================================
+2025-11-04 20:31:11 [INFO] [main:126] ✅ Plant Care Bot завершено
+2025-11-04 20:31:11 [INFO] [main:127] ================================================================================
+2025-11-04 20:34:37 [INFO] [config:294] ================================================================================
+2025-11-04 20:34:37 [INFO] [config:295] 🌱 Plant Care Bot v2.1 - ENHANCED EDITION
+2025-11-04 20:34:37 [INFO] [config:296] ================================================================================
+2025-11-04 20:34:37 [INFO] [config:297] 💾 Логи зберігаються в: logs\bot_20251104.log
+2025-11-04 20:34:37 [INFO] [config:298] 📸 Скріншоти: logs\screenshots
+2025-11-04 20:34:37 [INFO] [config:299] ⚙️ Конфіг: tasks.txt
+2025-11-04 20:34:37 [INFO] [config:300] 🎮 GPU прискорення: ✅ УВІМКНЕНО
+2025-11-04 20:34:37 [INFO] [config:301] 🧵 CPU потоків: 12
+2025-11-04 20:34:37 [INFO] [config:302] ================================================================================
+2025-11-04 20:34:37 [INFO] [main:71] 🔍 Перевірка системних вимог...
+2025-11-04 20:34:37 [WARNING] [main:40] ⚠️ OpenCV CUDA недоступний - використовується CPU
+2025-11-04 20:34:37 [INFO] [main:41] 💡 Для GPU прискорення встановіть: pip install opencv-contrib-python
+2025-11-04 20:34:37 [INFO] [main:77] ✅ Системні вимоги виконані
+2025-11-04 20:34:37 [INFO] [main:80] 🔧 Ініціалізація Plant Care Bot...
+2025-11-04 20:34:37 [INFO] [config:294] ================================================================================
+2025-11-04 20:34:37 [INFO] [config:295] 🌱 Plant Care Bot v2.1 - ENHANCED EDITION
+2025-11-04 20:34:37 [INFO] [config:296] ================================================================================
+2025-11-04 20:34:37 [INFO] [config:297] 💾 Логи зберігаються в: logs\bot_20251104.log
+2025-11-04 20:34:37 [INFO] [config:298] 📸 Скріншоти: logs\screenshots
+2025-11-04 20:34:37 [INFO] [config:299] ⚙️ Конфіг: tasks.txt
+2025-11-04 20:34:37 [INFO] [config:300] 🎮 GPU прискорення: ✅ УВІМКНЕНО
+2025-11-04 20:34:37 [INFO] [config:301] 🧵 CPU потоків: 12
+2025-11-04 20:34:37 [INFO] [config:302] ================================================================================
+2025-11-04 20:34:37 [INFO] [bot:38] 🚀 Ініціалізація Plant Care Bot v2.1 ENHANCED...
+2025-11-04 20:34:38 [INFO] [bot:109] ✅ Tesseract версія: 5.5.0.20241111
+2025-11-04 20:34:38 [INFO] [bot:120] ✅ Мови: ukr, rus, eng
+2025-11-04 20:34:38 [INFO] [bot:45] ⚙️ Завантаження конфігурації...
+2025-11-04 20:34:38 [INFO] [config:173] 📌 Діапазон води: 5.0-7.0л
+2025-11-04 20:34:38 [INFO] [config:178] 📌 Кількість з добривом: 0.95л
+2025-11-04 20:34:38 [INFO] [config:183] 📌 Базовий полив: 5.0л
+2025-11-04 20:34:38 [INFO] [config:188] 📌 Грунт: 85%
+2025-11-04 20:34:38 [INFO] [config:190] ✅ Конфігурацію завантажено: 10 паразитів
+2025-11-04 20:34:38 [INFO] [bot:49] 🔧 Ініціалізація компонентів...
+2025-11-04 20:34:38 [WARNING] [performance_optimizer:72] ⚠️ CUDA недоступна, використовується CPU
+2025-11-04 20:34:38 [INFO] [performance_optimizer:87] ================================================================================
+2025-11-04 20:34:38 [INFO] [performance_optimizer:88] ⚙️ СИСТЕМНА ІНФОРМАЦІЯ:
+2025-11-04 20:34:38 [INFO] [performance_optimizer:89]    CPU: 6P+6E cores
+2025-11-04 20:34:38 [INFO] [performance_optimizer:90]    RAM: 15.8 GB
+2025-11-04 20:34:38 [INFO] [performance_optimizer:91]    GPU: ❌ CPU only
+2025-11-04 20:34:38 [INFO] [performance_optimizer:92] ================================================================================
+2025-11-04 20:34:38 [INFO] [window_manager:37] 🪟 Ініціалізовано Window Manager для 'amazing.exe'
+2025-11-04 20:34:38 [INFO] [window_manager:68] 🎮 Знайдено вікно: 'AMAZING ONLINE' [0,0 1280x1024]
+2025-11-04 20:34:38 [INFO] [window_manager:83] ✅ Вибрано вікно: 'AMAZING ONLINE'
+2025-11-04 20:34:38 [INFO] [window_manager:84]    📐 Позиція: (0, 0), Розмір: 1280x1024
+2025-11-04 20:34:38 [INFO] [smart_inventory:51] ✅ Завантажено хімікати: (103, 403, 3)
+2025-11-04 20:34:38 [INFO] [smart_inventory:60] ✅ Завантажено повну лейку: (99, 105, 3)
+2025-11-04 20:34:38 [INFO] [smart_inventory:69] ✅ Завантажено пусту лейку: (105, 88, 3)
+2025-11-04 20:34:38 [INFO] [smart_inventory:73] 📦 Завантажено шаблонів: 3
+2025-11-04 20:34:38 [INFO] [smart_inventory:41] 🎒 Ініціалізовано Smart Inventory
+2025-11-04 20:34:38 [INFO] [analyzer:155] 🔍 Ініціалізовано Smart Analyzer
+2025-11-04 20:34:38 [INFO] [executor:60] ⚡ Ініціалізовано Smart Executor
+2025-11-04 20:34:38 [INFO] [window_manager:68] 🎮 Знайдено вікно: 'AMAZING ONLINE' [0,0 1280x1024]
+2025-11-04 20:34:38 [INFO] [window_manager:83] ✅ Вибрано вікно: 'AMAZING ONLINE'
+2025-11-04 20:34:38 [INFO] [window_manager:84]    📐 Позиція: (0, 0), Розмір: 1280x1024
+2025-11-04 20:34:38 [INFO] [analyzer:167] 🎮 Автоматично встановлено UI область гри через Window Manager
+2025-11-04 20:34:38 [INFO] [bot:100] ✅ Бот успішно ініціалізовано!
+2025-11-04 20:34:38 [INFO] [bot:133] ================================================================================
+2025-11-04 20:34:38 [INFO] [bot:134] 🌱 PLANT CARE BOT v2.1 - ГОТОВИЙ ДО РОБОТИ
+2025-11-04 20:34:38 [INFO] [bot:135] ================================================================================
+2025-11-04 20:34:38 [INFO] [bot:136] 📝 Конфігурація:
+2025-11-04 20:34:38 [INFO] [bot:137]    • Паразитів у базі: 10
+2025-11-04 20:34:38 [INFO] [bot:138]    • Базовий полив: 5.0л
+2025-11-04 20:34:38 [INFO] [bot:139]    • З добривом: 0.95л
+2025-11-04 20:34:38 [INFO] [bot:140]    • Діапазон води: 5.0-7.0л
+2025-11-04 20:34:38 [INFO] [bot:141]    • Рівень грунту: 85%
+2025-11-04 20:34:38 [INFO] [bot:142] 
+2025-11-04 20:34:38 [INFO] [bot:143] 🎮 Компоненти:
+2025-11-04 20:34:38 [INFO] [bot:144]    • Window Manager: ✅
+2025-11-04 20:34:38 [INFO] [bot:145]    • Smart Inventory: ✅
+2025-11-04 20:34:38 [INFO] [bot:146]    • Performance Optimizer: ✅
+2025-11-04 20:34:38 [INFO] [bot:147]    • GPU прискорення: ❌
+2025-11-04 20:34:38 [INFO] [bot:148] 
+2025-11-04 20:34:38 [INFO] [bot:149] ⚙️ Налаштування:
+2025-11-04 20:34:38 [INFO] [bot:150]    • Інтервал сканування: 2.0с
+2025-11-04 20:34:38 [INFO] [bot:151]    • Інтервал скріншотів: 5.0с
+2025-11-04 20:34:38 [INFO] [bot:152]    • CPU потоків: 12
+2025-11-04 20:34:38 [INFO] [bot:153]    • Масштабування скріншотів: 50%
+2025-11-04 20:34:38 [INFO] [bot:154] ================================================================================
+2025-11-04 20:34:38 [INFO] [main:84] 🎨 Ініціалізація графічного інтерфейсу...
+2025-11-04 20:34:39 [INFO] [main:87] ✅ Систему запущено успішно!
+2025-11-04 20:34:39 [INFO] [main:88] ================================================================================
+2025-11-04 20:34:39 [INFO] [main:89] 💡 ПОРАДИ ДЛЯ ПОЧАТКУ:
+2025-11-04 20:34:39 [INFO] [main:90]    1. Натисніть 'СТАРТ' для запуску моніторингу
+2025-11-04 20:34:39 [INFO] [main:91]    2. Встановіть 'ТОЧКУ ПОЛИВУ' через GUI
+2025-11-04 20:34:39 [INFO] [main:92]    3. Бот автоматично аналізує нижню 50% екрану
+2025-11-04 20:34:39 [INFO] [main:93]    4. Для зміни області натисніть 'ОБЛАСТЬ'
+2025-11-04 20:34:39 [INFO] [main:94] ================================================================================
+2025-11-04 20:34:48 [INFO] [bot:245] 🔄 Головний цикл моніторингу розпочато
+2025-11-04 20:34:48 [INFO] [bot:381] ▶️ Моніторинг запущено
+2025-11-04 20:34:48 [INFO] [bot:246] ⏱️ Параметри: сканування=2.0с, скріншоти=5.0с
+2025-11-04 20:34:48 [DEBUG] [bot:259] 🔍 Скан #1...
+2025-11-04 20:34:48 [INFO] [bot:169] 🔄 Головний цикл розпочато
+2025-11-04 20:34:48 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:34:48 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1280x512 → 1800x720 (--97.8%)
+2025-11-04 20:34:48 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:34:48 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1800x720 → 1800x720 (-0.0%)
+2025-11-04 20:34:49 [DEBUG] [performance_optimizer:173] 💾 Збережено: screen_20251104_203448.jpg (766 KB, PNG)
+2025-11-04 20:34:49 [DEBUG] [analyzer:235] 💾 Збережено: screen_20251104_203448.jpg
+2025-11-04 20:34:50 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 20:34:50 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_5cjjncqe_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_5cjjncqe', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:34:51 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_ijcaido5_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_ijcaido5', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 20:34:52 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_8t4bb3hs_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_8t4bb3hs', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:34:53 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_v1ralums_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_v1ralums', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:34:53 [INFO] [analyzer:254] 📱 Екран: unknown | Впевненість OCR: 71.3%
+2025-11-04 20:34:53 [INFO] [analyzer:304] ✅ Аналіз: 🎯 30% | Час: 4.98с
+2025-11-04 20:34:53 [DEBUG] [bot:272] 🔍 Скан #1: '| | о | (б) ПАУЗА | їві стоп | | | М, 57 кр | ;...'
+2025-11-04 20:34:53 [INFO] [bot:346] ================================================================================
+2025-11-04 20:34:53 [INFO] [bot:347] 📊 СТАТИСТИКА (uptime: 0 хв)
+2025-11-04 20:34:53 [INFO] [bot:348]    🔍 Сканів: 1
+2025-11-04 20:34:53 [INFO] [bot:349]    ⚡ Дій: 0
+2025-11-04 20:34:53 [INFO] [bot:350]    🐛 Паразитів: 0
+2025-11-04 20:34:53 [INFO] [bot:351]    💧 Поливів: 0
+2025-11-04 20:34:53 [INFO] [bot:352]    ❌ Помилок: 0
+2025-11-04 20:34:53 [INFO] [bot:357]    📈 Ефективність: 0.0% (дій/скан)
+2025-11-04 20:34:53 [INFO] [bot:359] ================================================================================
+2025-11-04 20:34:53 [INFO] [performance_optimizer:327] ================================================================================
+2025-11-04 20:34:53 [INFO] [performance_optimizer:328] 📊 СТАТИСТИКА ПРОДУКТИВНОСТІ:
+2025-11-04 20:34:53 [INFO] [performance_optimizer:329]    💾 Скріншотів: 1
+2025-11-04 20:34:53 [INFO] [performance_optimizer:330]    🎯 Cache hit: 0.0%
+2025-11-04 20:34:53 [INFO] [performance_optimizer:331]    🎮 GPU: ❌ (0 ops)
+2025-11-04 20:34:53 [INFO] [performance_optimizer:332]    🧠 RAM: 74.9 MB
+2025-11-04 20:34:53 [INFO] [performance_optimizer:333] ================================================================================
+2025-11-04 20:34:53 [DEBUG] [bot:309] ⏸️ Очікування 0.1с до наступного скану...
+2025-11-04 20:34:53 [DEBUG] [bot:259] 🔍 Скан #2...
+2025-11-04 20:34:53 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:34:53 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1280x512 → 1800x720 (--97.8%)
+2025-11-04 20:34:53 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:34:53 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1800x720 → 1800x720 (-0.0%)
+2025-11-04 20:34:54 [DEBUG] [performance_optimizer:173] 💾 Збережено: screen_20251104_203453.jpg (766 KB, PNG)
+2025-11-04 20:34:54 [DEBUG] [analyzer:235] 💾 Збережено: screen_20251104_203453.jpg
+2025-11-04 20:34:55 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 20:34:55 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_1vybktjb_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_1vybktjb', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:34:56 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_gdjodl54_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_gdjodl54', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 20:34:57 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_g1p9j9n9_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_g1p9j9n9', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:34:58 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_la78_1ek_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_la78_1ek', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:34:59 [INFO] [analyzer:254] 📱 Екран: unknown | Впевненість OCR: 59.0%
+2025-11-04 20:34:59 [INFO] [analyzer:304] ✅ Аналіз: 🎯 20% | Час: 5.46с
+2025-11-04 20:34:59 [DEBUG] [bot:272] 🔍 Скан #2: '| 7 | АРТ СТОП] «б — №44, Maruslat: (ey Логи: logs) [8 loge\screenshots > ействи...'
+2025-11-04 20:34:59 [DEBUG] [bot:309] ⏸️ Очікування 0.1с до наступного скану...
+2025-11-04 20:34:59 [DEBUG] [bot:259] 🔍 Скан #3...
+2025-11-04 20:34:59 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:34:59 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1280x512 → 1800x720 (--97.8%)
+2025-11-04 20:34:59 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:34:59 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1800x720 → 1800x720 (-0.0%)
+2025-11-04 20:35:00 [DEBUG] [performance_optimizer:173] 💾 Збережено: screen_20251104_203459.jpg (1310 KB, PNG)
+2025-11-04 20:35:00 [DEBUG] [analyzer:235] 💾 Збережено: screen_20251104_203459.jpg
+2025-11-04 20:35:01 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 20:35:01 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_ibds0yrr_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_ibds0yrr', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:35:02 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_qugtycs3_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_qugtycs3', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 20:35:03 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_ce9375ac_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_ce9375ac', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:35:03 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_1ugnklxt_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_1ugnklxt', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:35:04 [INFO] [analyzer:254] 📱 Екран: unknown | Впевненість OCR: 56.8%
+2025-11-04 20:35:04 [INFO] [analyzer:304] ✅ Аналіз: 🎯 20% | Час: 5.03с
+2025-11-04 20:35:04 [DEBUG] [bot:272] 🔍 Скан #3: 'i № 255 «У |] «АРТ 2 м i “7 WN a (9 2 | Vas nn i) че" |. Os | ( if | І if Sd Е И...'
+2025-11-04 20:35:04 [DEBUG] [bot:309] ⏸️ Очікування 0.1с до наступного скану...
+2025-11-04 20:35:04 [DEBUG] [bot:259] 🔍 Скан #4...
+2025-11-04 20:35:04 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:35:04 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1280x512 → 1800x720 (--97.8%)
+2025-11-04 20:35:04 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:35:04 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1800x720 → 1800x720 (-0.0%)
+2025-11-04 20:35:05 [DEBUG] [performance_optimizer:173] 💾 Збережено: screen_20251104_203504.jpg (560 KB, PNG)
+2025-11-04 20:35:05 [DEBUG] [analyzer:235] 💾 Збережено: screen_20251104_203504.jpg
+2025-11-04 20:35:05 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 20:35:05 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_imfilgfu_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_imfilgfu', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:35:06 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_o7ewgjiv_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_o7ewgjiv', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 20:35:08 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_186d95va_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_186d95va', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:35:08 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_0bk8_dyj_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_0bk8_dyj', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:35:09 [INFO] [analyzer:254] 📱 Екран: unknown | Впевненість OCR: 67.2%
+2025-11-04 20:35:09 [INFO] [analyzer:304] ✅ Аналіз: 🎯 20% | Час: 4.84с
+2025-11-04 20:35:09 [DEBUG] [bot:272] 🔍 Скан #4: '| 7 | АРТ | | T=) === (es Логи: logs) [8 8 Конфиг: | —— Нет [т] геном) © ГРЯДКА ...'
+2025-11-04 20:35:09 [DEBUG] [bot:309] ⏸️ Очікування 0.1с до наступного скану...
+2025-11-04 20:35:09 [DEBUG] [bot:259] 🔍 Скан #5...
+2025-11-04 20:35:09 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:35:09 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1280x512 → 1800x720 (--97.8%)
+2025-11-04 20:35:10 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 20:35:10 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_pbo7wo9g_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_pbo7wo9g', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:35:10 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_z63albf5_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_z63albf5', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 20:35:11 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_4slhcom9_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_4slhcom9', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:35:12 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_qlwoxxz4_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_qlwoxxz4', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:35:12 [INFO] [analyzer:254] 📱 Екран: unknown | Впевненість OCR: 69.0%
+2025-11-04 20:35:12 [INFO] [analyzer:304] ✅ Аналіз: 🎯 20% | Час: 3.56с
+2025-11-04 20:35:12 [DEBUG] [bot:272] 🔍 Скан #5: '| 7 | АРТ | | р НН _ а (8 Конфи: —= т 7 SEH — Нет ® con А ГРЯДКА Ned) & неті 20:...'
+2025-11-04 20:35:12 [DEBUG] [bot:309] ⏸️ Очікування 0.1с до наступного скану...
+2025-11-04 20:35:12 [DEBUG] [bot:259] 🔍 Скан #6...
+2025-11-04 20:35:12 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:35:13 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1280x512 → 1800x720 (--97.8%)
+2025-11-04 20:35:13 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:35:13 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1800x720 → 1800x720 (-0.0%)
+2025-11-04 20:35:13 [DEBUG] [performance_optimizer:173] 💾 Збережено: screen_20251104_203513.jpg (789 KB, PNG)
+2025-11-04 20:35:13 [DEBUG] [analyzer:235] 💾 Збережено: screen_20251104_203513.jpg
+2025-11-04 20:35:14 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 20:35:14 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_dw95zdba_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_dw95zdba', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:35:17 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_0ibmpvmt_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_0ibmpvmt', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 20:35:19 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_r7e1d7ie_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_r7e1d7ie', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:35:21 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_m_qst2lj_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_m_qst2lj', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:35:22 [INFO] [analyzer:254] 📱 Екран: unknown | Впевненість OCR: 66.6%
+2025-11-04 20:35:22 [INFO] [analyzer:304] ✅ Аналіз: 🎯 20% | Час: 9.67с
+2025-11-04 20:35:22 [DEBUG] [bot:272] 🔍 Скан #6: '[331 (2 94) WARNING. [performance¥optimizer:123] ze Om 94 Грегугоглати ‘Optimize...'
+2025-11-04 20:35:22 [DEBUG] [bot:309] ⏸️ Очікування 0.1с до наступного скану...
+2025-11-04 20:35:22 [DEBUG] [bot:259] 🔍 Скан #7...
+2025-11-04 20:35:22 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:35:22 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1280x512 → 1800x720 (--97.8%)
+2025-11-04 20:35:22 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:35:22 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1800x720 → 1800x720 (-0.0%)
+2025-11-04 20:35:23 [DEBUG] [performance_optimizer:173] 💾 Збережено: screen_20251104_203522.jpg (819 KB, PNG)
+2025-11-04 20:35:23 [DEBUG] [analyzer:235] 💾 Збережено: screen_20251104_203522.jpg
+2025-11-04 20:35:25 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 20:35:25 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_wmdus68f_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_wmdus68f', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:35:28 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_cg_60j6y_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_cg_60j6y', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 20:35:31 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_qyr6gud0_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_qyr6gud0', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:35:33 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_05t90e7g_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_05t90e7g', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:35:34 [INFO] [analyzer:254] 📱 Екран: unknown | Впевненість OCR: 65.0%
+2025-11-04 20:35:34 [DEBUG] [analyzer:428] 🎯 Паразит 'ГОЛЫЕ СЛИЗНИ' знайдено (нечітке)
+2025-11-04 20:35:34 [INFO] [analyzer:266] 🐛 ВИЯВЛЕНО ПАРАЗИТІВ: ГОЛЫЕ СЛИЗНИ
+2025-11-04 20:35:34 [INFO] [analyzer:304] ✅ Аналіз: 🐛 1 паразит(ів): ГОЛЫЕ СЛИЗНИ | 🎯 60% | Час: 11.74с
+2025-11-04 20:35:34 [INFO] [bot:270] 🔍 Скан #7: '[33m A¥ [2 99] WARNING (performance¥optimizer. pan 23 ЛУ 1800x72e<[Om, [3 12] ІМ...'
+   📊 🐛 1 паразит(ів): ГОЛЫЕ СЛИЗНИ | 🎯 60%
+2025-11-04 20:35:34 [INFO] [executor:80] 🐛 Виявлено 1 паразит(ів) - починаємо обробку
+2025-11-04 20:35:34 [INFO] [executor:147] 🧪 Обробка паразита: ГОЛЫЕ СЛИЗНИ
+2025-11-04 20:35:34 [INFO] [executor:148]    ├─ Категорія: біологічні
+2025-11-04 20:35:34 [INFO] [executor:149]    ├─ Клавіша: 3
+2025-11-04 20:35:34 [INFO] [executor:150]    ├─ Об'єм: 2.0-2.4л
+2025-11-04 20:35:34 [INFO] [executor:151]    └─ Тривалість: 120с
+2025-11-04 20:35:34 [ERROR] [window_manager:179] ❌ Помилка встановлення фокусу: (18, 'SetForegroundWindow', 'Больше файлов не осталось.')
+2025-11-04 20:35:34 [DEBUG] [executor:196] ⌨️ Натиснуто клавішу '3'
+2025-11-04 20:35:35 [DEBUG] [executor:260] ⚙️ Встановлення: 2.2л
+2025-11-04 20:35:37 [DEBUG] [executor:276]    └─ Введено: 2,2л
+2025-11-04 20:35:37 [INFO] [executor:175] ✅ Паразита ГОЛЫЕ СЛИЗНИ оброблено (2.2л)
+2025-11-04 20:35:37 [INFO] [bot:381] ✅ Дію виконано (всього: 1)
+2025-11-04 20:35:37 [INFO] [bot:289] ✅ Дію виконано (всього: 1)
+2025-11-04 20:35:37 [DEBUG] [bot:309] ⏸️ Очікування 0.1с до наступного скану...
+2025-11-04 20:35:37 [DEBUG] [bot:259] 🔍 Скан #8...
+2025-11-04 20:35:38 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:35:38 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1280x512 → 1800x720 (--97.8%)
+2025-11-04 20:35:38 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:35:38 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1800x720 → 1800x720 (-0.0%)
+2025-11-04 20:35:38 [DEBUG] [performance_optimizer:173] 💾 Збережено: screen_20251104_203538.jpg (423 KB, PNG)
+2025-11-04 20:35:38 [DEBUG] [analyzer:235] 💾 Збережено: screen_20251104_203538.jpg
+2025-11-04 20:35:39 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 20:35:39 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_wg9uqey1_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_wg9uqey1', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:35:40 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess__y8my3n7_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess__y8my3n7', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 20:35:41 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_wb6rjp5l_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_wb6rjp5l', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:35:42 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_4ifogx3u_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_4ifogx3u', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:35:42 [INFO] [analyzer:254] 📱 Екран: unknown | Впевненість OCR: 61.7%
+2025-11-04 20:35:42 [INFO] [analyzer:304] ✅ Аналіз: 🎯 20% | Час: 4.61с
+2025-11-04 20:35:42 [DEBUG] [bot:272] 🔍 Скан #8: '—_ 4 | Discord Фен» Tbobster= (40175) Сина ‘@bobste НАРА [5753 = = НЕЕ | | Пе ЕН...'
+2025-11-04 20:35:42 [DEBUG] [bot:309] ⏸️ Очікування 0.1с до наступного скану...
+2025-11-04 20:35:42 [DEBUG] [bot:259] 🔍 Скан #9...
+2025-11-04 20:35:42 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:35:42 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1280x512 → 1800x720 (--97.8%)
+2025-11-04 20:35:43 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 20:35:43 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_urp8hurv_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_urp8hurv', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:35:45 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_zqwm7ks7_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_zqwm7ks7', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 20:35:46 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_j89wkatt_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_j89wkatt', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:35:47 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_ngly4tjp_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_ngly4tjp', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:35:47 [INFO] [analyzer:254] 📱 Екран: unknown | Впевненість OCR: 61.8%
+2025-11-04 20:35:47 [INFO] [analyzer:304] ✅ Аналіз: 🎯 20% | Час: 4.83с
+2025-11-04 20:35:47 [DEBUG] [bot:272] 🔍 Скан #9: '\ \ ¢ | (40175)] Ce ]Steam} \ a | Jan И | Е fj № 3 OTCYICTBYE | OTEYIGIBY Es Ено...'
+2025-11-04 20:35:47 [DEBUG] [bot:309] ⏸️ Очікування 0.1с до наступного скану...
+2025-11-04 20:35:47 [DEBUG] [bot:259] 🔍 Скан #10...
+2025-11-04 20:35:47 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:35:47 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1280x512 → 1800x720 (--97.8%)
+2025-11-04 20:35:47 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:35:47 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1800x720 → 1800x720 (-0.0%)
+2025-11-04 20:35:47 [DEBUG] [performance_optimizer:173] 💾 Збережено: screen_20251104_203547.jpg (152 KB, PNG)
+2025-11-04 20:35:47 [DEBUG] [analyzer:235] 💾 Збережено: screen_20251104_203547.jpg
+2025-11-04 20:35:48 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 20:35:48 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_72hwzfqb_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_72hwzfqb', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:35:49 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_jjym77fl_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_jjym77fl', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 20:35:50 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_03g7stfc_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_03g7stfc', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:35:50 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_7eof4pv3_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_7eof4pv3', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:35:51 [INFO] [analyzer:254] 📱 Екран: unknown | Впевненість OCR: 70.3%
+2025-11-04 20:35:51 [INFO] [analyzer:304] ✅ Аналіз: 🎯 30% | Час: 3.50с
+2025-11-04 20:35:51 [DEBUG] [bot:272] 🔍 Скан #10: 'jiclegram Desktop РЖИ Stor компьютер, > > 6G Е 20:35, є 700m cae 04.11.2025...'
+2025-11-04 20:35:51 [DEBUG] [bot:309] ⏸️ Очікування 0.1с до наступного скану...
+2025-11-04 20:35:51 [DEBUG] [bot:259] 🔍 Скан #11...
+2025-11-04 20:35:51 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:35:51 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1280x512 → 1800x720 (--97.8%)
+2025-11-04 20:35:52 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 20:35:52 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_1l2bh2rz_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_1l2bh2rz', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:35:53 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_is3ysvgx_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_is3ysvgx', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 20:35:54 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_1wypzp30_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_1wypzp30', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:35:55 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess___lwmljw_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess___lwmljw', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:35:55 [INFO] [analyzer:254] 📱 Екран: unknown | Впевненість OCR: 65.6%
+2025-11-04 20:35:55 [INFO] [analyzer:304] ✅ Аналіз: 🎯 20% | Час: 4.68с
+2025-11-04 20:35:55 [DEBUG] [bot:272] 🔍 Скан #11: 'jiclegram Desktop РЖИ Stor компьютер, > > 6G 0 _ 20:35, є 200m cae 04.11.2025...'
+2025-11-04 20:35:55 [INFO] [bot:346] ================================================================================
+2025-11-04 20:35:55 [INFO] [bot:347] 📊 СТАТИСТИКА (uptime: 0 хв)
+2025-11-04 20:35:55 [INFO] [bot:348]    🔍 Сканів: 11
+2025-11-04 20:35:55 [INFO] [bot:349]    ⚡ Дій: 1
+2025-11-04 20:35:55 [INFO] [bot:350]    🐛 Паразитів: 1
+2025-11-04 20:35:55 [INFO] [bot:351]    💧 Поливів: 0
+2025-11-04 20:35:55 [INFO] [bot:352]    ❌ Помилок: 0
+2025-11-04 20:35:55 [INFO] [bot:357]    📈 Ефективність: 9.1% (дій/скан)
+2025-11-04 20:35:55 [INFO] [bot:359] ================================================================================
+2025-11-04 20:35:55 [INFO] [performance_optimizer:327] ================================================================================
+2025-11-04 20:35:55 [INFO] [performance_optimizer:328] 📊 СТАТИСТИКА ПРОДУКТИВНОСТІ:
+2025-11-04 20:35:55 [INFO] [performance_optimizer:329]    💾 Скріншотів: 8
+2025-11-04 20:35:55 [INFO] [performance_optimizer:330]    🎯 Cache hit: 0.0%
+2025-11-04 20:35:55 [INFO] [performance_optimizer:331]    🎮 GPU: ❌ (0 ops)
+2025-11-04 20:35:55 [INFO] [performance_optimizer:332]    🧠 RAM: 70.8 MB
+2025-11-04 20:35:55 [INFO] [performance_optimizer:333] ================================================================================
+2025-11-04 20:35:55 [DEBUG] [bot:309] ⏸️ Очікування 0.1с до наступного скану...
+2025-11-04 20:35:56 [DEBUG] [bot:259] 🔍 Скан #12...
+2025-11-04 20:35:56 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:35:56 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1280x512 → 1800x720 (--97.8%)
+2025-11-04 20:35:56 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:35:56 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1800x720 → 1800x720 (-0.0%)
+2025-11-04 20:35:56 [DEBUG] [performance_optimizer:173] 💾 Збережено: screen_20251104_203556.jpg (239 KB, PNG)
+2025-11-04 20:35:56 [DEBUG] [analyzer:235] 💾 Збережено: screen_20251104_203556.jpg
+2025-11-04 20:35:58 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 20:35:58 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_u7gec8_g_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_u7gec8_g', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:35:59 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_l1b1q2r7_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_l1b1q2r7', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 20:36:00 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_8ymg0v0b_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_8ymg0v0b', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:36:01 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_mbrdnq1g_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_mbrdnq1g', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:36:01 [INFO] [analyzer:254] 📱 Екран: unknown | Впевненість OCR: 63.1%
+2025-11-04 20:36:01 [INFO] [analyzer:304] ✅ Аналіз: 🎯 20% | Час: 5.43с
+2025-11-04 20:36:01 [DEBUG] [bot:272] 🔍 Скан #12: 'eS | 209 = OOO gis рр @ @ Є @B © |x Ф Аж > Де 0 Выбран элемент: || 20:35, 209 ою...'
+2025-11-04 20:36:01 [DEBUG] [bot:309] ⏸️ Очікування 0.1с до наступного скану...
+2025-11-04 20:36:01 [DEBUG] [bot:259] 🔍 Скан #13...
+2025-11-04 20:36:01 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:36:01 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1280x512 → 1800x720 (--97.8%)
+2025-11-04 20:36:01 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:36:01 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1800x720 → 1800x720 (-0.0%)
+2025-11-04 20:36:01 [DEBUG] [performance_optimizer:173] 💾 Збережено: screen_20251104_203601.jpg (252 KB, PNG)
+2025-11-04 20:36:01 [DEBUG] [analyzer:235] 💾 Збережено: screen_20251104_203601.jpg
+2025-11-04 20:36:03 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 20:36:03 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_j_4kfyj6_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_j_4kfyj6', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:36:04 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_1fsx11pp_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_1fsx11pp', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 20:36:06 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_iijfwfal_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_iijfwfal', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:36:06 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_aquo5dav_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_aquo5dav', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:36:07 [INFO] [analyzer:254] 📱 Екран: unknown | Впевненість OCR: 63.9%
+2025-11-04 20:36:07 [INFO] [analyzer:304] ✅ Аналіз: 🎯 20% | Час: 5.79с
+2025-11-04 20:36:07 [DEBUG] [bot:272] 🔍 Скан #13: 'mas > © © ® GD © ama З Ф са > дев КА _ Ф 600 ccd ців...'
+2025-11-04 20:36:07 [DEBUG] [bot:309] ⏸️ Очікування 0.1с до наступного скану...
+2025-11-04 20:36:07 [DEBUG] [bot:259] 🔍 Скан #14...
+2025-11-04 20:36:07 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:36:07 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1280x512 → 1800x720 (--97.8%)
+2025-11-04 20:36:07 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:36:07 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1800x720 → 1800x720 (-0.0%)
+2025-11-04 20:36:07 [DEBUG] [performance_optimizer:173] 💾 Збережено: screen_20251104_203607.jpg (274 KB, PNG)
+2025-11-04 20:36:07 [DEBUG] [analyzer:235] 💾 Збережено: screen_20251104_203607.jpg
+2025-11-04 20:36:08 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 20:36:08 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_r0i46mrs_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_r0i46mrs', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:36:09 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_hccsesqt_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_hccsesqt', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 20:36:10 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_9ks8264g_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_9ks8264g', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:36:11 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_y4n449ue_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_y4n449ue', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:36:11 [INFO] [analyzer:254] 📱 Екран: unknown | Впевненість OCR: 60.6%
+2025-11-04 20:36:11 [INFO] [analyzer:304] ✅ Аналіз: 🎯 20% | Час: 4.28с
+2025-11-04 20:36:11 [DEBUG] [bot:272] 🔍 Скан #14: 'М ЛО LZ i Hine |2 ‘A 12| є © © ев о в Ф Аж @ > = > Де Злемі 22 Выбран элемент: 1...'
+2025-11-04 20:36:11 [DEBUG] [bot:309] ⏸️ Очікування 0.1с до наступного скану...
+2025-11-04 20:36:11 [DEBUG] [bot:259] 🔍 Скан #15...
+2025-11-04 20:36:11 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:36:11 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1280x512 → 1800x720 (--97.8%)
+2025-11-04 20:36:13 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 20:36:13 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_edpf1ems_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_edpf1ems', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:36:14 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_peqcjqfb_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_peqcjqfb', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 20:36:15 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_78hga1_r_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_78hga1_r', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:36:16 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_59ul8q73_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_59ul8q73', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:36:16 [INFO] [analyzer:254] 📱 Екран: unknown | Впевненість OCR: 60.3%
+2025-11-04 20:36:16 [INFO] [analyzer:304] ✅ Аналіз: 🎯 20% | Час: 4.68с
+2025-11-04 20:36:16 [DEBUG] [bot:272] 🔍 Скан #15: 'М ЛО LZ i Hine |2 ‘A 12| є © © ев о в Ф Аж @ > = > Де Злемі 23] Выбран элемент: ...'
+2025-11-04 20:36:16 [DEBUG] [bot:309] ⏸️ Очікування 0.1с до наступного скану...
+2025-11-04 20:36:16 [DEBUG] [bot:259] 🔍 Скан #16...
+2025-11-04 20:36:16 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:36:16 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1280x512 → 1800x720 (--97.8%)
+2025-11-04 20:36:16 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:36:16 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1800x720 → 1800x720 (-0.0%)
+2025-11-04 20:36:17 [DEBUG] [performance_optimizer:173] 💾 Збережено: screen_20251104_203616.jpg (166 KB, PNG)
+2025-11-04 20:36:17 [DEBUG] [analyzer:235] 💾 Збережено: screen_20251104_203616.jpg
+2025-11-04 20:36:17 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 20:36:18 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_2yaxaagu_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_2yaxaagu', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:36:18 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_pcb4_0vl_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_pcb4_0vl', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 20:36:19 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_pmv_mko2_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_pmv_mko2', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:36:20 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_avp8s6ae_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_avp8s6ae', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:36:20 [INFO] [analyzer:254] 📱 Екран: unknown | Впевненість OCR: 64.0%
+2025-11-04 20:36:20 [INFO] [analyzer:304] ✅ Аналіз: 🎯 20% | Час: 4.07с
+2025-11-04 20:36:20 [DEBUG] [bot:272] 🔍 Скан #16: '=e = м Се Cee тот компьютер) > Sen > ДЕ лето | _ й _ _ — й _ є —^оою 90 mB...'
+2025-11-04 20:36:20 [DEBUG] [bot:309] ⏸️ Очікування 0.1с до наступного скану...
+2025-11-04 20:36:20 [DEBUG] [bot:259] 🔍 Скан #17...
+2025-11-04 20:36:20 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:36:20 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1280x512 → 1800x720 (--97.8%)
+2025-11-04 20:36:21 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 20:36:21 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_0uc160wo_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_0uc160wo', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:36:22 [INFO] [bot:381] ⏹️ Зупинка...
+2025-11-04 20:36:22 [INFO] [bot:189] ⏹️ Ініціювання зупинки...
+2025-11-04 20:36:24 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_9kc_isi8_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_9kc_isi8', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 20:36:26 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_9px75ybg_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_9px75ybg', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:36:27 [INFO] [bot:381] ========================================
+2025-11-04 20:36:27 [INFO] [bot:381] 📊 ФІНАЛЬНА СТАТИСТИКА
+2025-11-04 20:36:27 [INFO] [bot:381] ⏱️ Uptime: 0хв 0с
+2025-11-04 20:36:27 [INFO] [bot:381] 🔍 Сканів: 17
+2025-11-04 20:36:27 [INFO] [bot:381] ⚡ Дій: 1
+2025-11-04 20:36:27 [INFO] [bot:381] 🐛 Паразитів: 1
+2025-11-04 20:36:27 [INFO] [bot:381] ❌ Помилок: 0
+2025-11-04 20:36:27 [INFO] [bot:381] ========================================
+2025-11-04 20:36:27 [INFO] [performance_optimizer:327] ================================================================================
+2025-11-04 20:36:27 [INFO] [performance_optimizer:328] 📊 СТАТИСТИКА ПРОДУКТИВНОСТІ:
+2025-11-04 20:36:27 [INFO] [performance_optimizer:329]    💾 Скріншотів: 12
+2025-11-04 20:36:27 [INFO] [performance_optimizer:330]    🎯 Cache hit: 0.0%
+2025-11-04 20:36:27 [INFO] [performance_optimizer:331]    🎮 GPU: ❌ (0 ops)
+2025-11-04 20:36:27 [INFO] [performance_optimizer:332]    🧠 RAM: 81.6 MB
+2025-11-04 20:36:27 [INFO] [performance_optimizer:333] ================================================================================
+2025-11-04 20:36:27 [INFO] [performance_optimizer:361] ✅ Performance Optimizer завершено
+2025-11-04 20:36:27 [INFO] [smart_inventory:380] ============================================================
+2025-11-04 20:36:27 [INFO] [smart_inventory:381] 📊 СТАТИСТИКА ІНВЕНТАРЯ:
+2025-11-04 20:36:27 [INFO] [smart_inventory:382]    🔍 Пошуків виконано: 0
+2025-11-04 20:36:27 [INFO] [smart_inventory:383]    🧪 Хімікатів знайдено: 0
+2025-11-04 20:36:27 [INFO] [smart_inventory:384]    💧 Перевірок лейки: 0
+2025-11-04 20:36:27 [INFO] [smart_inventory:385] ============================================================
+2025-11-04 20:36:27 [INFO] [analyzer:590] ================================================================================
+2025-11-04 20:36:27 [INFO] [analyzer:591] 📊 СТАТИСТИКА АНАЛІЗАТОРА:
+2025-11-04 20:36:27 [INFO] [analyzer:592]    🔍 Сканів: 17 (успішних: 1, 5.9%)
+2025-11-04 20:36:27 [INFO] [analyzer:593]    🐛 Паразитів виявлено: 1
+2025-11-04 20:36:27 [INFO] [analyzer:594]    💧 Попереджень про воду: 0
+2025-11-04 20:36:27 [INFO] [analyzer:595]    ⏱️ Середній час аналізу: 4415.1ms
+2025-11-04 20:36:27 [INFO] [analyzer:596]    🎮 Контекст: Локація: unknown | Полито: 0 | Оброблено: 1 | Вода: unknown | Дій: 1
+2025-11-04 20:36:27 [INFO] [analyzer:597] ================================================================================
+2025-11-04 20:36:27 [INFO] [executor:379] ================================================================================
+2025-11-04 20:36:27 [INFO] [executor:380] 📊 СТАТИСТИКА ВИКОНАВЦЯ:
+2025-11-04 20:36:27 [INFO] [executor:381]    🐛 Паразитів оброблено: 1
+2025-11-04 20:36:27 [INFO] [executor:382]    💧 Поливів виконано: 0
+2025-11-04 20:36:27 [INFO] [executor:383]    🚰 Поповнень води: 0
+2025-11-04 20:36:27 [INFO] [executor:384]    ❌ Невдалих дій: 0
+2025-11-04 20:36:27 [INFO] [executor:385]    ✅ Всього дій: 1
+2025-11-04 20:36:27 [INFO] [executor:386]    📍 Точка поливу: ❌ Не встановлена
+2025-11-04 20:36:27 [INFO] [executor:387]    🔄 Наступна перевірка води через: 5 поливів
+2025-11-04 20:36:27 [INFO] [executor:388] ================================================================================
+2025-11-04 20:36:27 [INFO] [bot:381] ⏹️ Зупинено
+2025-11-04 20:36:27 [INFO] [bot:215] ✅ Бот успішно зупинено
+2025-11-04 20:36:28 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_vhxw1mnl_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_vhxw1mnl', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:36:29 [INFO] [analyzer:254] 📱 Екран: unknown | Впевненість OCR: 65.8%
+2025-11-04 20:36:29 [INFO] [analyzer:304] ✅ Аналіз: 🎯 20% | Час: 8.38с
+2025-11-04 20:36:29 [DEBUG] [bot:272] 🔍 Скан #17: '— АННЕ (33m. 33 (2 211 WARNING (performance¥optimizer. 23 posmi (Щ180898Хх7204 [...'
+2025-11-04 20:36:29 [DEBUG] [bot:309] ⏸️ Очікування 0.1с до наступного скану...
+2025-11-04 20:36:29 [INFO] [bot:340] 🔄 Головний цикл завершено
+2025-11-04 20:46:12 [INFO] [main:104] ⚠️ Перервано користувачем
+2025-11-04 20:46:12 [INFO] [main:125] ================================================================================
+2025-11-04 20:46:12 [INFO] [main:126] ✅ Plant Care Bot завершено
+2025-11-04 20:46:12 [INFO] [main:127] ================================================================================
+2025-11-04 20:46:16 [INFO] [config:294] ================================================================================
+2025-11-04 20:46:16 [INFO] [config:295] 🌱 Plant Care Bot v2.1 - ENHANCED EDITION
+2025-11-04 20:46:16 [INFO] [config:296] ================================================================================
+2025-11-04 20:46:16 [INFO] [config:297] 💾 Логи зберігаються в: logs\bot_20251104.log
+2025-11-04 20:46:16 [INFO] [config:298] 📸 Скріншоти: logs\screenshots
+2025-11-04 20:46:16 [INFO] [config:299] ⚙️ Конфіг: tasks.txt
+2025-11-04 20:46:16 [INFO] [config:300] 🎮 GPU прискорення: ✅ УВІМКНЕНО
+2025-11-04 20:46:16 [INFO] [config:301] 🧵 CPU потоків: 12
+2025-11-04 20:46:16 [INFO] [config:302] ================================================================================
+2025-11-04 20:46:16 [INFO] [main:71] 🔍 Перевірка системних вимог...
+2025-11-04 20:46:16 [WARNING] [main:40] ⚠️ OpenCV CUDA недоступний - використовується CPU
+2025-11-04 20:46:16 [INFO] [main:41] 💡 Для GPU прискорення встановіть: pip install opencv-contrib-python
+2025-11-04 20:46:16 [INFO] [main:77] ✅ Системні вимоги виконані
+2025-11-04 20:46:16 [INFO] [main:80] 🔧 Ініціалізація Plant Care Bot...
+2025-11-04 20:46:16 [INFO] [config:294] ================================================================================
+2025-11-04 20:46:16 [INFO] [config:295] 🌱 Plant Care Bot v2.1 - ENHANCED EDITION
+2025-11-04 20:46:16 [INFO] [config:296] ================================================================================
+2025-11-04 20:46:16 [INFO] [config:297] 💾 Логи зберігаються в: logs\bot_20251104.log
+2025-11-04 20:46:16 [INFO] [config:298] 📸 Скріншоти: logs\screenshots
+2025-11-04 20:46:16 [INFO] [config:299] ⚙️ Конфіг: tasks.txt
+2025-11-04 20:46:16 [INFO] [config:300] 🎮 GPU прискорення: ✅ УВІМКНЕНО
+2025-11-04 20:46:16 [INFO] [config:301] 🧵 CPU потоків: 12
+2025-11-04 20:46:16 [INFO] [config:302] ================================================================================
+2025-11-04 20:46:16 [INFO] [bot:38] 🚀 Ініціалізація Plant Care Bot v2.1 ENHANCED...
+2025-11-04 20:46:16 [INFO] [bot:109] ✅ Tesseract версія: 5.5.0.20241111
+2025-11-04 20:46:16 [INFO] [bot:120] ✅ Мови: ukr, rus, eng
+2025-11-04 20:46:16 [INFO] [bot:45] ⚙️ Завантаження конфігурації...
+2025-11-04 20:46:16 [INFO] [config:173] 📌 Діапазон води: 5.0-7.0л
+2025-11-04 20:46:16 [INFO] [config:178] 📌 Кількість з добривом: 0.95л
+2025-11-04 20:46:16 [INFO] [config:183] 📌 Базовий полив: 5.0л
+2025-11-04 20:46:16 [INFO] [config:188] 📌 Грунт: 85%
+2025-11-04 20:46:16 [INFO] [config:190] ✅ Конфігурацію завантажено: 10 паразитів
+2025-11-04 20:46:16 [INFO] [bot:49] 🔧 Ініціалізація компонентів...
+2025-11-04 20:46:16 [WARNING] [performance_optimizer:72] ⚠️ CUDA недоступна, використовується CPU
+2025-11-04 20:46:16 [INFO] [performance_optimizer:87] ================================================================================
+2025-11-04 20:46:16 [INFO] [performance_optimizer:88] ⚙️ СИСТЕМНА ІНФОРМАЦІЯ:
+2025-11-04 20:46:16 [INFO] [performance_optimizer:89]    CPU: 6P+6E cores
+2025-11-04 20:46:16 [INFO] [performance_optimizer:90]    RAM: 15.8 GB
+2025-11-04 20:46:16 [INFO] [performance_optimizer:91]    GPU: ❌ CPU only
+2025-11-04 20:46:16 [INFO] [performance_optimizer:92] ================================================================================
+2025-11-04 20:46:16 [INFO] [window_manager:68] 🪟 Window Manager ініціалізовано для 'amazing.exe'
+2025-11-04 20:46:16 [INFO] [window_manager:69]    📌 Always on Top: ✅ ENABLED
+2025-11-04 20:46:16 [INFO] [window_manager:70]    🔄 Автоматичний фокус: ✅ ENABLED
+2025-11-04 20:46:16 [INFO] [window_manager:113] 🎮 Знайдено: 'AMAZING ONLINE' [1280x1024px]
+2025-11-04 20:46:16 [DEBUG] [window_manager:114]    Position: (0, 0)
+2025-11-04 20:46:16 [DEBUG] [window_manager:115]    Foreground: False
+2025-11-04 20:46:16 [DEBUG] [window_manager:116]    Visible: 1
+2025-11-04 20:46:16 [INFO] [window_manager:134] ✅ Вибрано: 'AMAZING ONLINE'
+2025-11-04 20:46:16 [INFO] [window_manager:135]    📐 Розмір: 1280x1024px
+2025-11-04 20:46:16 [INFO] [window_manager:136]    📍 Позиція: (0, 0)
+2025-11-04 20:46:16 [WARNING] [window_manager:183] ⚠️ Не вдалося увімкнути Always on Top
+2025-11-04 20:46:16 [INFO] [smart_inventory:51] ✅ Завантажено хімікати: (103, 403, 3)
+2025-11-04 20:46:16 [INFO] [smart_inventory:60] ✅ Завантажено повну лейку: (99, 105, 3)
+2025-11-04 20:46:16 [INFO] [smart_inventory:69] ✅ Завантажено пусту лейку: (105, 88, 3)
+2025-11-04 20:46:16 [INFO] [smart_inventory:73] 📦 Завантажено шаблонів: 3
+2025-11-04 20:46:16 [INFO] [smart_inventory:41] 🎒 Ініціалізовано Smart Inventory
+2025-11-04 20:46:16 [INFO] [analyzer:155] 🔍 Ініціалізовано Smart Analyzer
+2025-11-04 20:46:16 [INFO] [executor:60] ⚡ Ініціалізовано Smart Executor
+2025-11-04 20:46:16 [INFO] [window_manager:113] 🎮 Знайдено: 'AMAZING ONLINE' [1280x1024px]
+2025-11-04 20:46:16 [DEBUG] [window_manager:114]    Position: (0, 0)
+2025-11-04 20:46:16 [DEBUG] [window_manager:115]    Foreground: False
+2025-11-04 20:46:16 [DEBUG] [window_manager:116]    Visible: 1
+2025-11-04 20:46:16 [INFO] [window_manager:134] ✅ Вибрано: 'AMAZING ONLINE'
+2025-11-04 20:46:16 [INFO] [window_manager:135]    📐 Розмір: 1280x1024px
+2025-11-04 20:46:16 [INFO] [window_manager:136]    📍 Позиція: (0, 0)
+2025-11-04 20:46:16 [WARNING] [window_manager:183] ⚠️ Не вдалося увімкнути Always on Top
+2025-11-04 20:46:16 [INFO] [analyzer:167] 🎮 Автоматично встановлено UI область гри через Window Manager
+2025-11-04 20:46:16 [INFO] [bot:100] ✅ Бот успішно ініціалізовано!
+2025-11-04 20:46:16 [INFO] [bot:133] ================================================================================
+2025-11-04 20:46:16 [INFO] [bot:134] 🌱 PLANT CARE BOT v2.1 - ГОТОВИЙ ДО РОБОТИ
+2025-11-04 20:46:16 [INFO] [bot:135] ================================================================================
+2025-11-04 20:46:16 [INFO] [bot:136] 📝 Конфігурація:
+2025-11-04 20:46:16 [INFO] [bot:137]    • Паразитів у базі: 10
+2025-11-04 20:46:16 [INFO] [bot:138]    • Базовий полив: 5.0л
+2025-11-04 20:46:16 [INFO] [bot:139]    • З добривом: 0.95л
+2025-11-04 20:46:16 [INFO] [bot:140]    • Діапазон води: 5.0-7.0л
+2025-11-04 20:46:16 [INFO] [bot:141]    • Рівень грунту: 85%
+2025-11-04 20:46:16 [INFO] [bot:142] 
+2025-11-04 20:46:16 [INFO] [bot:143] 🎮 Компоненти:
+2025-11-04 20:46:16 [INFO] [bot:144]    • Window Manager: ✅
+2025-11-04 20:46:16 [INFO] [bot:145]    • Smart Inventory: ✅
+2025-11-04 20:46:16 [INFO] [bot:146]    • Performance Optimizer: ✅
+2025-11-04 20:46:16 [INFO] [bot:147]    • GPU прискорення: ❌
+2025-11-04 20:46:16 [INFO] [bot:148] 
+2025-11-04 20:46:16 [INFO] [bot:149] ⚙️ Налаштування:
+2025-11-04 20:46:16 [INFO] [bot:150]    • Інтервал сканування: 2.0с
+2025-11-04 20:46:16 [INFO] [bot:151]    • Інтервал скріншотів: 5.0с
+2025-11-04 20:46:16 [INFO] [bot:152]    • CPU потоків: 12
+2025-11-04 20:46:16 [INFO] [bot:153]    • Масштабування скріншотів: 50%
+2025-11-04 20:46:16 [INFO] [bot:154] ================================================================================
+2025-11-04 20:46:16 [INFO] [main:84] 🎨 Ініціалізація графічного інтерфейсу...
+2025-11-04 20:46:17 [INFO] [main:87] ✅ Систему запущено успішно!
+2025-11-04 20:46:17 [INFO] [main:88] ================================================================================
+2025-11-04 20:46:17 [INFO] [main:89] 💡 ПОРАДИ ДЛЯ ПОЧАТКУ:
+2025-11-04 20:46:17 [INFO] [main:90]    1. Натисніть 'СТАРТ' для запуску моніторингу
+2025-11-04 20:46:17 [INFO] [main:91]    2. Встановіть 'ТОЧКУ ПОЛИВУ' через GUI
+2025-11-04 20:46:17 [INFO] [main:92]    3. Бот автоматично аналізує нижню 50% екрану
+2025-11-04 20:46:17 [INFO] [main:93]    4. Для зміни області натисніть 'ОБЛАСТЬ'
+2025-11-04 20:46:17 [INFO] [main:94] ================================================================================
+2025-11-04 20:46:37 [INFO] [bot:245] 🔄 Головний цикл моніторингу розпочато
+2025-11-04 20:46:37 [INFO] [bot:381] ▶️ Моніторинг запущено
+2025-11-04 20:46:37 [INFO] [bot:246] ⏱️ Параметри: сканування=2.0с, скріншоти=5.0с
+2025-11-04 20:46:37 [DEBUG] [bot:259] 🔍 Скан #1...
+2025-11-04 20:46:37 [INFO] [bot:169] 🔄 Головний цикл розпочато
+2025-11-04 20:46:37 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:46:37 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1280x512 → 1800x720 (--97.8%)
+2025-11-04 20:46:37 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:46:37 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1800x720 → 1800x720 (-0.0%)
+2025-11-04 20:46:37 [DEBUG] [performance_optimizer:173] 💾 Збережено: screen_20251104_204637.jpg (291 KB, PNG)
+2025-11-04 20:46:37 [DEBUG] [analyzer:235] 💾 Збережено: screen_20251104_204637.jpg
+2025-11-04 20:46:38 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 20:46:38 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_nzmgfu0t_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_nzmgfu0t', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:46:39 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess__4cll5ry_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess__4cll5ry', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 20:46:41 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_wlx3xddq_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_wlx3xddq', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:46:42 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_4nrlmcvj_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_4nrlmcvj', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:46:42 [INFO] [analyzer:254] 📱 Екран: unknown | Впевненість OCR: 69.7%
+2025-11-04 20:46:42 [INFO] [analyzer:304] ✅ Аналіз: 🎯 20% | Час: 5.15с
+2025-11-04 20:46:42 [DEBUG] [bot:272] 🔍 Скан #1: 'СОМРІ 2) $ Зь О о © о 9 \гепер створю інструкцію & Паразитів чу Doct Я створив д...'
+2025-11-04 20:46:42 [INFO] [bot:346] ================================================================================
+2025-11-04 20:46:42 [INFO] [bot:347] 📊 СТАТИСТИКА (uptime: 0 хв)
+2025-11-04 20:46:42 [INFO] [bot:348]    🔍 Сканів: 1
+2025-11-04 20:46:42 [INFO] [bot:349]    ⚡ Дій: 0
+2025-11-04 20:46:42 [INFO] [bot:350]    🐛 Паразитів: 0
+2025-11-04 20:46:42 [INFO] [bot:351]    💧 Поливів: 0
+2025-11-04 20:46:42 [INFO] [bot:352]    ❌ Помилок: 0
+2025-11-04 20:46:42 [INFO] [bot:357]    📈 Ефективність: 0.0% (дій/скан)
+2025-11-04 20:46:42 [INFO] [bot:359] ================================================================================
+2025-11-04 20:46:42 [INFO] [performance_optimizer:327] ================================================================================
+2025-11-04 20:46:42 [INFO] [performance_optimizer:328] 📊 СТАТИСТИКА ПРОДУКТИВНОСТІ:
+2025-11-04 20:46:42 [INFO] [performance_optimizer:329]    💾 Скріншотів: 1
+2025-11-04 20:46:42 [INFO] [performance_optimizer:330]    🎯 Cache hit: 0.0%
+2025-11-04 20:46:42 [INFO] [performance_optimizer:331]    🎮 GPU: ❌ (0 ops)
+2025-11-04 20:46:42 [INFO] [performance_optimizer:332]    🧠 RAM: 70.2 MB
+2025-11-04 20:46:42 [INFO] [performance_optimizer:333] ================================================================================
+2025-11-04 20:46:42 [DEBUG] [bot:309] ⏸️ Очікування 0.1с до наступного скану...
+2025-11-04 20:46:42 [DEBUG] [bot:259] 🔍 Скан #2...
+2025-11-04 20:46:42 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:46:42 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1280x512 → 1800x720 (--97.8%)
+2025-11-04 20:46:42 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:46:42 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1800x720 → 1800x720 (-0.0%)
+2025-11-04 20:46:43 [DEBUG] [performance_optimizer:173] 💾 Збережено: screen_20251104_204642.jpg (1690 KB, PNG)
+2025-11-04 20:46:43 [DEBUG] [analyzer:235] 💾 Збережено: screen_20251104_204642.jpg
+2025-11-04 20:46:44 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 20:46:44 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_m2ttbo4f_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_m2ttbo4f', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:46:50 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_mywht93w_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_mywht93w', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 20:46:53 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_mtd4rmw5_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_mtd4rmw5', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:46:57 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_prj584bq_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_prj584bq', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:47:00 [INFO] [analyzer:254] 📱 Екран: unknown | Впевненість OCR: 48.8%
+2025-11-04 20:47:00 [INFO] [analyzer:304] ✅ Аналіз: 🎯 10% | Час: 17.56с
+2025-11-04 20:47:00 [DEBUG] [bot:272] 🔍 Скан #2: 'SY SST 35 ae Ко MSD SNS ZS Se Ж ae CATA SN we Ж х “NS бе Woe р м = > хе S Р roan...'
+2025-11-04 20:47:00 [DEBUG] [bot:309] ⏸️ Очікування 0.1с до наступного скану...
+2025-11-04 20:47:00 [DEBUG] [bot:259] 🔍 Скан #3...
+2025-11-04 20:47:00 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:47:00 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1280x512 → 1800x720 (--97.8%)
+2025-11-04 20:47:00 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:47:00 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1800x720 → 1800x720 (-0.0%)
+2025-11-04 20:47:00 [DEBUG] [performance_optimizer:173] 💾 Збережено: screen_20251104_204700.jpg (621 KB, PNG)
+2025-11-04 20:47:00 [DEBUG] [analyzer:235] 💾 Збережено: screen_20251104_204700.jpg
+2025-11-04 20:47:01 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 20:47:01 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_8x6l52sg_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_8x6l52sg', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:47:03 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_htf45drc_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_htf45drc', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 20:47:04 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_kzk2hr2t_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_kzk2hr2t', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:47:05 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_bfsh7p62_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_bfsh7p62', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:47:06 [INFO] [analyzer:254] 📱 Екран: unknown | Впевненість OCR: 56.6%
+2025-11-04 20:47:06 [INFO] [analyzer:304] ✅ Аналіз: 🎯 20% | Час: 5.95с
+2025-11-04 20:47:06 [DEBUG] [bot:272] 🔍 Скан #3: 'as ate хе $ Зь О 7 © о 9 це 8 "о -- & Паразитів и 9A, ra ik =} == м 2% << a „| ©...'
+2025-11-04 20:47:06 [DEBUG] [bot:309] ⏸️ Очікування 0.1с до наступного скану...
+2025-11-04 20:47:06 [DEBUG] [bot:259] 🔍 Скан #4...
+2025-11-04 20:47:06 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:47:06 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1280x512 → 1800x720 (--97.8%)
+2025-11-04 20:47:06 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:47:06 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1800x720 → 1800x720 (-0.0%)
+2025-11-04 20:47:06 [DEBUG] [performance_optimizer:173] 💾 Збережено: screen_20251104_204706.jpg (839 KB, PNG)
+2025-11-04 20:47:06 [DEBUG] [analyzer:235] 💾 Збережено: screen_20251104_204706.jpg
+2025-11-04 20:47:07 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 20:47:07 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_nr5di9dt_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_nr5di9dt', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:47:11 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_2jqtjja0_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_2jqtjja0', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 20:47:13 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_fom4empo_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_fom4empo', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:47:16 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_6r97ngdl_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_6r97ngdl', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:47:17 [INFO] [analyzer:254] 📱 Екран: unknown | Впевненість OCR: 57.3%
+2025-11-04 20:47:17 [INFO] [analyzer:304] ✅ Аналіз: 🎯 20% | Час: 11.40с
+2025-11-04 20:47:17 [DEBUG] [bot:272] 🔍 Скан #4: 'as [2 RNING) [performan: днали. намуму, 27202 [2 91 4] МЕ чок Впевне: 48. ee Om ...'
+2025-11-04 20:47:17 [DEBUG] [bot:309] ⏸️ Очікування 0.1с до наступного скану...
+2025-11-04 20:47:17 [DEBUG] [bot:259] 🔍 Скан #5...
+2025-11-04 20:47:17 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:47:17 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1280x512 → 1800x720 (--97.8%)
+2025-11-04 20:47:17 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:47:17 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1800x720 → 1800x720 (-0.0%)
+2025-11-04 20:47:19 [DEBUG] [performance_optimizer:173] 💾 Збережено: screen_20251104_204717.jpg (898 KB, PNG)
+2025-11-04 20:47:20 [DEBUG] [analyzer:235] 💾 Збережено: screen_20251104_204717.jpg
+2025-11-04 20:47:20 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 20:47:20 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_5ts16wd4_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_5ts16wd4', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:47:21 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_rayw2x2d_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_rayw2x2d', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 20:47:22 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_3oean4c6_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_3oean4c6', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:47:22 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_ght8jt2l_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_ght8jt2l', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:47:23 [INFO] [analyzer:254] 📱 Екран: unknown | Впевненість OCR: 64.9%
+2025-11-04 20:47:23 [INFO] [analyzer:304] ✅ Аналіз: 🎯 20% | Час: 5.16с
+2025-11-04 20:47:23 [DEBUG] [bot:272] 🔍 Скан #5: '[ПРИЦЕЛ) - [СТРИМИНГОВАЯ О) > ae Е - З ‚ © wy 4 SS ‘ath |...'
+2025-11-04 20:47:23 [DEBUG] [bot:309] ⏸️ Очікування 0.1с до наступного скану...
+2025-11-04 20:47:23 [DEBUG] [bot:259] 🔍 Скан #6...
+2025-11-04 20:47:23 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:47:23 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1280x512 → 1800x720 (--97.8%)
+2025-11-04 20:47:23 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:47:23 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1800x720 → 1800x720 (-0.0%)
+2025-11-04 20:47:25 [DEBUG] [performance_optimizer:173] 💾 Збережено: screen_20251104_204723.jpg (887 KB, PNG)
+2025-11-04 20:47:25 [DEBUG] [analyzer:235] 💾 Збережено: screen_20251104_204723.jpg
+2025-11-04 20:47:26 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 20:47:26 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_vkaijs3e_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_vkaijs3e', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:47:26 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_r_glc6bz_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_r_glc6bz', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 20:47:27 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_hspl638y_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_hspl638y', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:47:28 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_35ve97tj_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_35ve97tj', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:47:28 [INFO] [analyzer:254] 📱 Екран: unknown | Впевненість OCR: 65.0%
+2025-11-04 20:47:28 [INFO] [analyzer:304] ✅ Аналіз: 🎯 20% | Час: 5.41с
+2025-11-04 20:47:28 [DEBUG] [bot:272] 🔍 Скан #6: '‚ © . NMG i 3 | NN у : AREER ру Й Г | Гав © й @ и [1500х300] gS S . a“ о р /...'
+2025-11-04 20:47:28 [DEBUG] [bot:309] ⏸️ Очікування 0.1с до наступного скану...
+2025-11-04 20:47:28 [DEBUG] [bot:259] 🔍 Скан #7...
+2025-11-04 20:47:28 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:47:28 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1280x512 → 1800x720 (--97.8%)
+2025-11-04 20:47:28 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:47:28 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1800x720 → 1800x720 (-0.0%)
+2025-11-04 20:47:30 [DEBUG] [performance_optimizer:173] 💾 Збережено: screen_20251104_204728.jpg (906 KB, PNG)
+2025-11-04 20:47:30 [DEBUG] [analyzer:235] 💾 Збережено: screen_20251104_204728.jpg
+2025-11-04 20:47:31 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 20:47:31 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_l26earsm_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_l26earsm', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:47:31 [INFO] [bot:381] ⏹️ Зупинка...
+2025-11-04 20:47:31 [INFO] [bot:189] ⏹️ Ініціювання зупинки...
+2025-11-04 20:47:32 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_eat3m16c_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_eat3m16c', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 20:47:33 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_qzrhfjgl_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_qzrhfjgl', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:47:34 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_v_cvmxjq_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_v_cvmxjq', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:47:34 [INFO] [analyzer:254] 📱 Екран: unknown | Впевненість OCR: 59.1%
+2025-11-04 20:47:34 [INFO] [analyzer:304] ✅ Аналіз: 🎯 20% | Час: 6.08с
+2025-11-04 20:47:34 [DEBUG] [bot:272] 🔍 Скан #7: '| 7 3 > fe В Ere М і мА AS BA У 3 5 I rok — SS! 3- й _ S200 3 5 =. их ord | “7 w...'
+2025-11-04 20:47:34 [DEBUG] [bot:309] ⏸️ Очікування 0.1с до наступного скану...
+2025-11-04 20:47:34 [INFO] [bot:340] 🔄 Головний цикл завершено
+2025-11-04 20:47:34 [INFO] [bot:381] ========================================
+2025-11-04 20:47:34 [INFO] [bot:381] 📊 ФІНАЛЬНА СТАТИСТИКА
+2025-11-04 20:47:34 [INFO] [bot:381] ⏱️ Uptime: 0хв 57с
+2025-11-04 20:47:34 [INFO] [bot:381] 🔍 Сканів: 7
+2025-11-04 20:47:34 [INFO] [bot:381] ⚡ Дій: 0
+2025-11-04 20:47:34 [INFO] [bot:381] 🐛 Паразитів: 0
+2025-11-04 20:47:34 [INFO] [bot:381] ❌ Помилок: 0
+2025-11-04 20:47:34 [INFO] [bot:381] ========================================
+2025-11-04 20:47:34 [INFO] [performance_optimizer:327] ================================================================================
+2025-11-04 20:47:34 [INFO] [performance_optimizer:328] 📊 СТАТИСТИКА ПРОДУКТИВНОСТІ:
+2025-11-04 20:47:34 [INFO] [performance_optimizer:329]    💾 Скріншотів: 7
+2025-11-04 20:47:34 [INFO] [performance_optimizer:330]    🎯 Cache hit: 0.0%
+2025-11-04 20:47:34 [INFO] [performance_optimizer:331]    🎮 GPU: ❌ (0 ops)
+2025-11-04 20:47:34 [INFO] [performance_optimizer:332]    🧠 RAM: 74.7 MB
+2025-11-04 20:47:34 [INFO] [performance_optimizer:333] ================================================================================
+2025-11-04 20:47:34 [INFO] [performance_optimizer:361] ✅ Performance Optimizer завершено
+2025-11-04 20:47:34 [INFO] [smart_inventory:380] ============================================================
+2025-11-04 20:47:34 [INFO] [smart_inventory:381] 📊 СТАТИСТИКА ІНВЕНТАРЯ:
+2025-11-04 20:47:34 [INFO] [smart_inventory:382]    🔍 Пошуків виконано: 0
+2025-11-04 20:47:34 [INFO] [smart_inventory:383]    🧪 Хімікатів знайдено: 0
+2025-11-04 20:47:34 [INFO] [smart_inventory:384]    💧 Перевірок лейки: 0
+2025-11-04 20:47:34 [INFO] [smart_inventory:385] ============================================================
+2025-11-04 20:47:34 [INFO] [analyzer:590] ================================================================================
+2025-11-04 20:47:34 [INFO] [analyzer:591] 📊 СТАТИСТИКА АНАЛІЗАТОРА:
+2025-11-04 20:47:34 [INFO] [analyzer:592]    🔍 Сканів: 7 (успішних: 0, 0.0%)
+2025-11-04 20:47:34 [INFO] [analyzer:593]    🐛 Паразитів виявлено: 0
+2025-11-04 20:47:34 [INFO] [analyzer:594]    💧 Попереджень про воду: 0
+2025-11-04 20:47:34 [INFO] [analyzer:595]    ⏱️ Середній час аналізу: 6249.3ms
+2025-11-04 20:47:34 [INFO] [analyzer:596]    🎮 Контекст: Локація: unknown | Полито: 0 | Оброблено: 0 | Вода: unknown | Дій: 0
+2025-11-04 20:47:34 [INFO] [analyzer:597] ================================================================================
+2025-11-04 20:47:34 [INFO] [executor:379] ================================================================================
+2025-11-04 20:47:34 [INFO] [executor:380] 📊 СТАТИСТИКА ВИКОНАВЦЯ:
+2025-11-04 20:47:34 [INFO] [executor:381]    🐛 Паразитів оброблено: 0
+2025-11-04 20:47:34 [INFO] [executor:382]    💧 Поливів виконано: 0
+2025-11-04 20:47:34 [INFO] [executor:383]    🚰 Поповнень води: 0
+2025-11-04 20:47:34 [INFO] [executor:384]    ❌ Невдалих дій: 0
+2025-11-04 20:47:34 [INFO] [executor:385]    ✅ Всього дій: 0
+2025-11-04 20:47:34 [INFO] [executor:386]    📍 Точка поливу: ❌ Не встановлена
+2025-11-04 20:47:34 [INFO] [executor:387]    🔄 Наступна перевірка води через: 5 поливів
+2025-11-04 20:47:34 [INFO] [executor:388] ================================================================================
+2025-11-04 20:47:34 [INFO] [bot:381] ⏹️ Зупинено
+2025-11-04 20:47:34 [INFO] [bot:215] ✅ Бот успішно зупинено
+2025-11-04 20:47:36 [INFO] [bot:245] 🔄 Головний цикл моніторингу розпочато
+2025-11-04 20:47:36 [INFO] [bot:381] ▶️ Моніторинг запущено
+2025-11-04 20:47:36 [INFO] [bot:246] ⏱️ Параметри: сканування=2.0с, скріншоти=5.0с
+2025-11-04 20:47:36 [DEBUG] [bot:259] 🔍 Скан #8...
+2025-11-04 20:47:36 [INFO] [bot:169] 🔄 Головний цикл розпочато
+2025-11-04 20:47:36 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:47:36 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1280x512 → 1800x720 (--97.8%)
+2025-11-04 20:47:36 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:47:36 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1800x720 → 1800x720 (-0.0%)
+2025-11-04 20:47:37 [DEBUG] [performance_optimizer:173] 💾 Збережено: screen_20251104_204736.jpg (696 KB, PNG)
+2025-11-04 20:47:37 [DEBUG] [analyzer:235] 💾 Збережено: screen_20251104_204736.jpg
+2025-11-04 20:47:38 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 20:47:38 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_tqk4wd15_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_tqk4wd15', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:47:40 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_6ath137q_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_6ath137q', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 20:47:42 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_6ih1wxka_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_6ih1wxka', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:47:45 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_1qbnu5d9_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_1qbnu5d9', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:47:46 [INFO] [analyzer:254] 📱 Екран: unknown | Впевненість OCR: 56.3%
+2025-11-04 20:47:46 [INFO] [analyzer:304] ✅ Аналіз: 🎯 20% | Час: 9.97с
+2025-11-04 20:47:46 [DEBUG] [bot:272] 🔍 Скан #8: '134053 дій Що; з а гм о СХ 2 о 8 помилок о) Р ги 9 9 9 й з » | ПРОДОВЖИТИ єв. 7....'
+2025-11-04 20:47:46 [INFO] [bot:346] ================================================================================
+2025-11-04 20:47:46 [INFO] [bot:347] 📊 СТАТИСТИКА (uptime: 0 хв)
+2025-11-04 20:47:46 [INFO] [bot:348]    🔍 Сканів: 8
+2025-11-04 20:47:46 [INFO] [bot:349]    ⚡ Дій: 0
+2025-11-04 20:47:46 [INFO] [bot:350]    🐛 Паразитів: 0
+2025-11-04 20:47:46 [INFO] [bot:351]    💧 Поливів: 0
+2025-11-04 20:47:46 [INFO] [bot:352]    ❌ Помилок: 0
+2025-11-04 20:47:46 [INFO] [bot:357]    📈 Ефективність: 0.0% (дій/скан)
+2025-11-04 20:47:46 [INFO] [bot:359] ================================================================================
+2025-11-04 20:47:46 [INFO] [performance_optimizer:327] ================================================================================
+2025-11-04 20:47:46 [INFO] [performance_optimizer:328] 📊 СТАТИСТИКА ПРОДУКТИВНОСТІ:
+2025-11-04 20:47:46 [INFO] [performance_optimizer:329]    💾 Скріншотів: 8
+2025-11-04 20:47:46 [INFO] [performance_optimizer:330]    🎯 Cache hit: 0.0%
+2025-11-04 20:47:46 [INFO] [performance_optimizer:331]    🎮 GPU: ❌ (0 ops)
+2025-11-04 20:47:46 [INFO] [performance_optimizer:332]    🧠 RAM: 71.4 MB
+2025-11-04 20:47:46 [INFO] [performance_optimizer:333] ================================================================================
+2025-11-04 20:47:46 [DEBUG] [bot:309] ⏸️ Очікування 0.1с до наступного скану...
+2025-11-04 20:47:46 [DEBUG] [bot:259] 🔍 Скан #9...
+2025-11-04 20:47:46 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:47:46 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1280x512 → 1800x720 (--97.8%)
+2025-11-04 20:47:46 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:47:47 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1800x720 → 1800x720 (-0.0%)
+2025-11-04 20:47:48 [DEBUG] [performance_optimizer:173] 💾 Збережено: screen_20251104_204746.jpg (929 KB, PNG)
+2025-11-04 20:47:48 [DEBUG] [analyzer:235] 💾 Збережено: screen_20251104_204746.jpg
+2025-11-04 20:47:49 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 20:47:49 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_oq02tc4i_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_oq02tc4i', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:47:50 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_c7b717du_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_c7b717du', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 20:47:51 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_7onhd78u_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_7onhd78u', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:47:52 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_kqlislkw_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_kqlislkw', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:47:52 [INFO] [analyzer:254] 📱 Екран: unknown | Впевненість OCR: 59.2%
+2025-11-04 20:47:52 [INFO] [analyzer:304] ✅ Аналіз: 🎯 20% | Час: 5.96с
+2025-11-04 20:47:52 [DEBUG] [bot:272] 🔍 Скан #9: 'OG) сні i М Фо | = | MD I | - в 200 @...'
+2025-11-04 20:47:52 [DEBUG] [bot:309] ⏸️ Очікування 0.1с до наступного скану...
+2025-11-04 20:47:52 [DEBUG] [bot:259] 🔍 Скан #10...
+2025-11-04 20:47:53 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:47:53 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1280x512 → 1800x720 (--97.8%)
+2025-11-04 20:47:53 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:47:53 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1800x720 → 1800x720 (-0.0%)
+2025-11-04 20:47:53 [DEBUG] [performance_optimizer:173] 💾 Збережено: screen_20251104_204753.jpg (508 KB, PNG)
+2025-11-04 20:47:53 [DEBUG] [analyzer:235] 💾 Збережено: screen_20251104_204753.jpg
+2025-11-04 20:47:54 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 20:47:54 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_2g4sl5hl_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_2g4sl5hl', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:47:55 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_zk9yz1s8_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_zk9yz1s8', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 20:47:56 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_6i1t9bg__input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_6i1t9bg_', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:47:57 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_ilnhvy4h_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_ilnhvy4h', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:47:58 [INFO] [analyzer:254] 📱 Екран: unknown | Впевненість OCR: 68.6%
+2025-11-04 20:47:58 [INFO] [analyzer:304] ✅ Аналіз: 🎯 20% | Час: 5.05с
+2025-11-04 20:47:58 [DEBUG] [bot:272] 🔍 Скан #10: '47 4) 47, Помилок. Oo 47 4) == Зупине! @= Вань) тв, 47 Hal ринг заг: с Посажено,...'
+2025-11-04 20:47:58 [DEBUG] [bot:309] ⏸️ Очікування 0.1с до наступного скану...
+2025-11-04 20:47:58 [DEBUG] [bot:259] 🔍 Скан #11...
+2025-11-04 20:47:58 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:47:58 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1280x512 → 1800x720 (--97.8%)
+2025-11-04 20:47:58 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:47:58 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1800x720 → 1800x720 (-0.0%)
+2025-11-04 20:47:58 [DEBUG] [performance_optimizer:173] 💾 Збережено: screen_20251104_204758.jpg (699 KB, PNG)
+2025-11-04 20:47:58 [DEBUG] [analyzer:235] 💾 Збережено: screen_20251104_204758.jpg
+2025-11-04 20:47:59 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 20:47:59 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_p33xtp9f_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_p33xtp9f', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:48:02 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_ydumqi_i_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_ydumqi_i', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 20:48:04 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_c2fymriy_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_c2fymriy', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:48:06 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_gfxzdukp_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_gfxzdukp', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:48:07 [INFO] [analyzer:254] 📱 Екран: unknown | Впевненість OCR: 64.8%
+2025-11-04 20:48:07 [INFO] [analyzer:304] ✅ Аналіз: 🎯 20% | Час: 9.32с
+2025-11-04 20:48:07 [DEBUG] [bot:272] 🔍 Скан #11: '3m ANY 26 [performan: pt: Е] № HANI My Om [2 46 ]TWARNING a} AN ‘уму, Sis Om ira...'
+2025-11-04 20:48:07 [DEBUG] [bot:309] ⏸️ Очікування 0.1с до наступного скану...
+2025-11-04 20:48:07 [DEBUG] [bot:259] 🔍 Скан #12...
+2025-11-04 20:48:07 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:48:07 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1280x512 → 1800x720 (--97.8%)
+2025-11-04 20:48:07 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:48:07 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1800x720 → 1800x720 (-0.0%)
+2025-11-04 20:48:09 [DEBUG] [performance_optimizer:173] 💾 Збережено: screen_20251104_204807.jpg (853 KB, PNG)
+2025-11-04 20:48:09 [DEBUG] [analyzer:235] 💾 Збережено: screen_20251104_204807.jpg
+2025-11-04 20:48:09 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 20:48:09 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_ujpa4zw4_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_ujpa4zw4', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:48:10 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_vedn67pv_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_vedn67pv', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 20:48:11 [INFO] [executor:332] 📍 Встановлення точки поливу...
+2025-11-04 20:48:11 [INFO] [executor:333]    Після 1.5с наведіть курсор на точку поливу
+2025-11-04 20:48:11 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_qxf7rr54_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_qxf7rr54', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:48:12 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_w7vh9jq7_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_w7vh9jq7', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:48:12 [INFO] [analyzer:254] 📱 Екран: unknown | Впевненість OCR: 62.3%
+2025-11-04 20:48:12 [INFO] [analyzer:304] ✅ Аналіз: 🎯 20% | Час: 5.18с
+2025-11-04 20:48:12 [DEBUG] [bot:272] 🔍 Скан #12: '5 ие a 2 м ИД $07 Ai 7 KZ \ ТЕМПЕРАТУРА) [т) Посажено, ВОДА; 0% [0%] | [20: 209 ...'
+2025-11-04 20:48:12 [DEBUG] [bot:309] ⏸️ Очікування 0.1с до наступного скану...
+2025-11-04 20:48:12 [DEBUG] [bot:259] 🔍 Скан #13...
+2025-11-04 20:48:12 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:48:12 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1280x512 → 1800x720 (--97.8%)
+2025-11-04 20:48:12 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:48:12 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1800x720 → 1800x720 (-0.0%)
+2025-11-04 20:48:12 [INFO] [executor:340] ✅ Точку встановлено: (640, 522)
+2025-11-04 20:48:12 [INFO] [bot:381] ✅ Точку встановлено: (640, 522)
+2025-11-04 20:48:14 [DEBUG] [performance_optimizer:173] 💾 Збережено: screen_20251104_204812.jpg (870 KB, PNG)
+2025-11-04 20:48:14 [DEBUG] [analyzer:235] 💾 Збережено: screen_20251104_204812.jpg
+2025-11-04 20:48:15 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 20:48:15 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_pr5rx7x__input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_pr5rx7x_', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:48:16 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_7syeazb__input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_7syeazb_', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 20:48:16 [DEBUG] [analyzer:372] OCR спроба (ukr+rus+eng): (3221225786, 'Estimating resolution as 360 ObjectCache(00007fffcd2a6600)::~ObjectCache(): WARNING! LEAK! object 000002009713c270 still has count 1 (id C:\\Program Files\\Tesseract-OCR/tessdata/ukr.traineddatalstm-punc-dawg) ObjectCache(00007fffcd2a6600)::~ObjectCache(): WARNING! LEAK! object 0000020097118e90 still has count 1 (id C:\\Program Files\\Tesseract-OCR/tessdata/ukr.traineddatalstm-word-dawg) ObjectCache(00007fffcd2a6600)::~ObjectCache(): WARNING! LEAK! object 0000020097118e20 still has count 1 (id C:\\Program Files\\Tesseract-OCR/tessdata/ukr.traineddatalstm-number-dawg) ObjectCache(00007fffcd2a6600)::~ObjectCache(): WARNING! LEAK! object 0000020097b292d0 still has count 1 (id C:\\Program Files\\Tesseract-OCR/tessdata/rus.traineddatalstm-punc-dawg) ObjectCache(00007fffcd2a6600)::~ObjectCache(): WARNING! LEAK! object 0000020097f95680 still has count 1 (id C:\\Program Files\\Tesseract-OCR/tessdata/rus.traineddatalstm-word-dawg) ObjectCache(00007fffcd2a6600)::~ObjectCache(): WARNING! LEAK! object 0000020097a58290 still has count 1 (id C:\\Program Files\\Tesseract-OCR/tessdata/rus.traineddatalstm-number-dawg) ObjectCache(00007fffcd2a6600)::~ObjectCache(): WARNING! LEAK! object 0000020097efc7f0 still has count 1 (id C:\\Program Files\\Tesseract-OCR/tessdata/eng.traineddatalstm-punc-dawg) ObjectCache(00007fffcd2a6600)::~ObjectCache(): WARNING! LEAK! object 0000020097efcd30 still has count 1 (id C:\\Program Files\\Tesseract-OCR/tessdata/eng.traineddatalstm-word-dawg) ObjectCache(00007fffcd2a6600)::~ObjectCache(): WARNING! LEAK! object 0000020097efc630 still has count 1 (id C:\\Program Files\\Tesseract-OCR/tessdata/eng.traineddatalstm-number-dawg)')
+2025-11-04 20:48:16 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_uxxjqpkl_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_uxxjqpkl', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:48:17 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_weo28abj_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_weo28abj', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:48:17 [INFO] [analyzer:254] 📱 Екран: unknown | Впевненість OCR: 63.4%
+2025-11-04 20:48:17 [INFO] [analyzer:304] ✅ Аналіз: 🎯 20% | Час: 5.10с
+2025-11-04 20:48:17 [DEBUG] [bot:272] 🔍 Скан #13: 'А \ ay = \ 4 | Ssh OS ZNZN ОТСУТСТВУЕЦСЕМЕЧКО тосажено, war OMDB 109 @ 600 oH...'
+2025-11-04 20:48:17 [DEBUG] [bot:309] ⏸️ Очікування 0.1с до наступного скану...
+2025-11-04 20:48:18 [DEBUG] [bot:259] 🔍 Скан #14...
+2025-11-04 20:48:18 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:48:18 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1280x512 → 1800x720 (--97.8%)
+2025-11-04 20:48:18 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 20:48:18 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1800x720 → 1800x720 (-0.0%)
+2025-11-04 20:48:19 [DEBUG] [performance_optimizer:173] 💾 Збережено: screen_20251104_204818.jpg (891 KB, PNG)
+2025-11-04 20:48:19 [DEBUG] [analyzer:235] 💾 Збережено: screen_20251104_204818.jpg
+2025-11-04 20:48:20 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 20:48:20 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_qtu6kf97_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_qtu6kf97', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:48:22 [INFO] [main:104] ⚠️ Перервано користувачем
+2025-11-04 20:48:22 [INFO] [main:120] 🛑 Зупинка бота...
+2025-11-04 20:48:22 [INFO] [bot:381] ⏹️ Зупинка...
+2025-11-04 20:48:22 [INFO] [bot:189] ⏹️ Ініціювання зупинки...
+2025-11-04 20:48:22 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_qsjf6np8_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_qsjf6np8', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 20:48:24 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_zwdc61uz_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_zwdc61uz', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:48:26 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_gkdpb883_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_gkdpb883', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 20:48:27 [INFO] [bot:381] ========================================
+2025-11-04 20:48:27 [INFO] [bot:381] 📊 ФІНАЛЬНА СТАТИСТИКА
+2025-11-04 20:48:27 [INFO] [bot:381] ⏱️ Uptime: 0хв 57с
+2025-11-04 20:48:27 [INFO] [bot:381] 🔍 Сканів: 14
+2025-11-04 20:48:27 [INFO] [bot:381] ⚡ Дій: 0
+2025-11-04 20:48:27 [INFO] [bot:381] 🐛 Паразитів: 0
+2025-11-04 20:48:27 [INFO] [bot:381] ❌ Помилок: 0
+2025-11-04 20:48:27 [INFO] [bot:381] ========================================
+2025-11-04 20:48:27 [INFO] [performance_optimizer:327] ================================================================================
+2025-11-04 20:48:27 [INFO] [performance_optimizer:328] 📊 СТАТИСТИКА ПРОДУКТИВНОСТІ:
+2025-11-04 20:48:27 [INFO] [performance_optimizer:329]    💾 Скріншотів: 14
+2025-11-04 20:48:27 [INFO] [performance_optimizer:330]    🎯 Cache hit: 0.0%
+2025-11-04 20:48:27 [INFO] [performance_optimizer:331]    🎮 GPU: ❌ (0 ops)
+2025-11-04 20:48:27 [INFO] [performance_optimizer:332]    🧠 RAM: 82.6 MB
+2025-11-04 20:48:27 [INFO] [performance_optimizer:333] ================================================================================
+2025-11-04 20:48:27 [INFO] [performance_optimizer:361] ✅ Performance Optimizer завершено
+2025-11-04 20:48:27 [INFO] [smart_inventory:380] ============================================================
+2025-11-04 20:48:27 [INFO] [smart_inventory:381] 📊 СТАТИСТИКА ІНВЕНТАРЯ:
+2025-11-04 20:48:27 [INFO] [smart_inventory:382]    🔍 Пошуків виконано: 0
+2025-11-04 20:48:27 [INFO] [smart_inventory:383]    🧪 Хімікатів знайдено: 0
+2025-11-04 20:48:27 [INFO] [smart_inventory:384]    💧 Перевірок лейки: 0
+2025-11-04 20:48:27 [INFO] [smart_inventory:385] ============================================================
+2025-11-04 20:48:27 [INFO] [analyzer:590] ================================================================================
+2025-11-04 20:48:27 [INFO] [analyzer:591] 📊 СТАТИСТИКА АНАЛІЗАТОРА:
+2025-11-04 20:48:27 [INFO] [analyzer:592]    🔍 Сканів: 14 (успішних: 0, 0.0%)
+2025-11-04 20:48:27 [INFO] [analyzer:593]    🐛 Паразитів виявлено: 0
+2025-11-04 20:48:27 [INFO] [analyzer:594]    💧 Попереджень про воду: 0
+2025-11-04 20:48:27 [INFO] [analyzer:595]    ⏱️ Середній час аналізу: 5762.6ms
+2025-11-04 20:48:27 [INFO] [analyzer:596]    🎮 Контекст: Локація: unknown | Полито: 0 | Оброблено: 0 | Вода: unknown | Дій: 1
+2025-11-04 20:48:27 [INFO] [analyzer:597] ================================================================================
+2025-11-04 20:48:27 [INFO] [executor:379] ================================================================================
+2025-11-04 20:48:27 [INFO] [executor:380] 📊 СТАТИСТИКА ВИКОНАВЦЯ:
+2025-11-04 20:48:27 [INFO] [executor:381]    🐛 Паразитів оброблено: 0
+2025-11-04 20:48:27 [INFO] [executor:382]    💧 Поливів виконано: 0
+2025-11-04 20:48:27 [INFO] [executor:383]    🚰 Поповнень води: 0
+2025-11-04 20:48:27 [INFO] [executor:384]    ❌ Невдалих дій: 0
+2025-11-04 20:48:27 [INFO] [executor:385]    ✅ Всього дій: 0
+2025-11-04 20:48:27 [INFO] [executor:386]    📍 Точка поливу: ✅ Встановлена
+2025-11-04 20:48:27 [INFO] [executor:387]    🔄 Наступна перевірка води через: 5 поливів
+2025-11-04 20:48:27 [INFO] [executor:388] ================================================================================
+2025-11-04 20:48:27 [INFO] [bot:381] ⏹️ Зупинено
+2025-11-04 20:48:27 [INFO] [bot:215] ✅ Бот успішно зупинено
+2025-11-04 20:48:27 [INFO] [main:125] ================================================================================
+2025-11-04 20:48:27 [INFO] [main:126] ✅ Plant Care Bot завершено
+2025-11-04 20:48:27 [INFO] [main:127] ================================================================================
+2025-11-04 21:01:34 [INFO] [config:294] ================================================================================
+2025-11-04 21:01:34 [INFO] [config:295] 🌱 Plant Care Bot v2.1 - ENHANCED EDITION
+2025-11-04 21:01:34 [INFO] [config:296] ================================================================================
+2025-11-04 21:01:34 [INFO] [config:297] 💾 Логи зберігаються в: logs\bot_20251104.log
+2025-11-04 21:01:34 [INFO] [config:298] 📸 Скріншоти: logs\screenshots
+2025-11-04 21:01:34 [INFO] [config:299] ⚙️ Конфіг: tasks.txt
+2025-11-04 21:01:34 [INFO] [config:300] 🎮 GPU прискорення: ✅ УВІМКНЕНО
+2025-11-04 21:01:34 [INFO] [config:301] 🧵 CPU потоків: 12
+2025-11-04 21:01:34 [INFO] [config:302] ================================================================================
+2025-11-04 21:01:34 [INFO] [main:71] 🔍 Перевірка системних вимог...
+2025-11-04 21:01:34 [WARNING] [main:40] ⚠️ OpenCV CUDA недоступний - використовується CPU
+2025-11-04 21:01:34 [INFO] [main:41] 💡 Для GPU прискорення встановіть: pip install opencv-contrib-python
+2025-11-04 21:01:34 [INFO] [main:77] ✅ Системні вимоги виконані
+2025-11-04 21:01:34 [INFO] [main:80] 🔧 Ініціалізація Plant Care Bot...
+2025-11-04 21:01:34 [INFO] [config:294] ================================================================================
+2025-11-04 21:01:34 [INFO] [config:295] 🌱 Plant Care Bot v2.1 - ENHANCED EDITION
+2025-11-04 21:01:34 [INFO] [config:296] ================================================================================
+2025-11-04 21:01:34 [INFO] [config:297] 💾 Логи зберігаються в: logs\bot_20251104.log
+2025-11-04 21:01:34 [INFO] [config:298] 📸 Скріншоти: logs\screenshots
+2025-11-04 21:01:34 [INFO] [config:299] ⚙️ Конфіг: tasks.txt
+2025-11-04 21:01:34 [INFO] [config:300] 🎮 GPU прискорення: ✅ УВІМКНЕНО
+2025-11-04 21:01:34 [INFO] [config:301] 🧵 CPU потоків: 12
+2025-11-04 21:01:34 [INFO] [config:302] ================================================================================
+2025-11-04 21:01:34 [INFO] [bot:38] 🚀 Ініціалізація Plant Care Bot v2.1 ENHANCED (FIXED)...
+2025-11-04 21:01:34 [INFO] [bot:109] ✅ Tesseract версія: 5.5.0.20241111
+2025-11-04 21:01:34 [INFO] [bot:120] ✅ Мови: ukr, rus, eng
+2025-11-04 21:01:34 [INFO] [bot:45] ⚙️ Завантаження конфігурації...
+2025-11-04 21:01:34 [INFO] [config:173] 📌 Діапазон води: 5.0-7.0л
+2025-11-04 21:01:34 [INFO] [config:178] 📌 Кількість з добривом: 0.95л
+2025-11-04 21:01:34 [INFO] [config:183] 📌 Базовий полив: 5.0л
+2025-11-04 21:01:34 [INFO] [config:188] 📌 Грунт: 85%
+2025-11-04 21:01:34 [INFO] [config:190] ✅ Конфігурацію завантажено: 10 паразитів
+2025-11-04 21:01:34 [INFO] [bot:49] 🔧 Ініціалізація компонентів...
+2025-11-04 21:01:34 [WARNING] [performance_optimizer:72] ⚠️ CUDA недоступна, використовується CPU
+2025-11-04 21:01:34 [INFO] [performance_optimizer:87] ================================================================================
+2025-11-04 21:01:34 [INFO] [performance_optimizer:88] ⚙️ СИСТЕМНА ІНФОРМАЦІЯ:
+2025-11-04 21:01:34 [INFO] [performance_optimizer:89]    CPU: 6P+6E cores
+2025-11-04 21:01:34 [INFO] [performance_optimizer:90]    RAM: 15.8 GB
+2025-11-04 21:01:34 [INFO] [performance_optimizer:91]    GPU: ❌ CPU only
+2025-11-04 21:01:34 [INFO] [performance_optimizer:92] ================================================================================
+2025-11-04 21:01:34 [INFO] [window_manager:68] 🪟 Window Manager ініціалізовано для 'amazing.exe'
+2025-11-04 21:01:34 [INFO] [window_manager:69]    📌 Always on Top: ✅ ENABLED
+2025-11-04 21:01:34 [INFO] [window_manager:70]    🔄 Автоматичний фокус: ✅ ENABLED
+2025-11-04 21:01:34 [INFO] [window_manager:113] 🎮 Знайдено: 'AMAZING ONLINE' [1280x1024px]
+2025-11-04 21:01:34 [DEBUG] [window_manager:114]    Position: (0, 0)
+2025-11-04 21:01:34 [DEBUG] [window_manager:115]    Foreground: False
+2025-11-04 21:01:34 [DEBUG] [window_manager:116]    Visible: 1
+2025-11-04 21:01:34 [INFO] [window_manager:134] ✅ Вибрано: 'AMAZING ONLINE'
+2025-11-04 21:01:34 [INFO] [window_manager:135]    📐 Розмір: 1280x1024px
+2025-11-04 21:01:34 [INFO] [window_manager:136]    📍 Позиція: (0, 0)
+2025-11-04 21:01:34 [WARNING] [window_manager:183] ⚠️ Не вдалося увімкнути Always on Top
+2025-11-04 21:01:34 [INFO] [smart_inventory:51] ✅ Завантажено хімікати: (103, 403, 3)
+2025-11-04 21:01:34 [INFO] [smart_inventory:60] ✅ Завантажено повну лейку: (99, 105, 3)
+2025-11-04 21:01:34 [INFO] [smart_inventory:69] ✅ Завантажено пусту лейку: (105, 88, 3)
+2025-11-04 21:01:34 [INFO] [smart_inventory:73] 📦 Завантажено шаблонів: 3
+2025-11-04 21:01:34 [INFO] [smart_inventory:41] 🎒 Ініціалізовано Smart Inventory
+2025-11-04 21:01:34 [INFO] [analyzer:155] 🔍 Ініціалізовано Smart Analyzer
+2025-11-04 21:01:34 [INFO] [executor:60] ⚡ Ініціалізовано Smart Executor
+2025-11-04 21:01:34 [INFO] [window_manager:113] 🎮 Знайдено: 'AMAZING ONLINE' [1280x1024px]
+2025-11-04 21:01:34 [DEBUG] [window_manager:114]    Position: (0, 0)
+2025-11-04 21:01:34 [DEBUG] [window_manager:115]    Foreground: False
+2025-11-04 21:01:34 [DEBUG] [window_manager:116]    Visible: 1
+2025-11-04 21:01:34 [INFO] [window_manager:134] ✅ Вибрано: 'AMAZING ONLINE'
+2025-11-04 21:01:34 [INFO] [window_manager:135]    📐 Розмір: 1280x1024px
+2025-11-04 21:01:34 [INFO] [window_manager:136]    📍 Позиція: (0, 0)
+2025-11-04 21:01:34 [WARNING] [window_manager:183] ⚠️ Не вдалося увімкнути Always on Top
+2025-11-04 21:01:34 [INFO] [analyzer:167] 🎮 Автоматично встановлено UI область гри через Window Manager
+2025-11-04 21:01:34 [INFO] [bot:100] ✅ Бот успішно ініціалізовано!
+2025-11-04 21:01:34 [INFO] [bot:133] ================================================================================
+2025-11-04 21:01:34 [INFO] [bot:134] 🌱 PLANT CARE BOT v2.1 - ГОТОВИЙ ДО РОБОТИ (FIXED)
+2025-11-04 21:01:34 [INFO] [bot:135] ================================================================================
+2025-11-04 21:01:34 [INFO] [bot:136] 📝 Конфігурація:
+2025-11-04 21:01:34 [INFO] [bot:137]    • Паразитів у базі: 10
+2025-11-04 21:01:34 [INFO] [bot:138]    • Базовий полив: 5.0л
+2025-11-04 21:01:34 [INFO] [bot:139]    • З добривом: 0.95л
+2025-11-04 21:01:34 [INFO] [bot:140]    • Діапазон води: 5.0-7.0л
+2025-11-04 21:01:34 [INFO] [bot:141]    • Рівень грунту: 85%
+2025-11-04 21:01:34 [INFO] [bot:142] 
+2025-11-04 21:01:34 [INFO] [bot:143] 🎮 Компоненти:
+2025-11-04 21:01:34 [INFO] [bot:144]    • Window Manager: ✅
+2025-11-04 21:01:34 [INFO] [bot:145]    • Smart Inventory: ✅
+2025-11-04 21:01:34 [INFO] [bot:146]    • Performance Optimizer: ✅
+2025-11-04 21:01:34 [INFO] [bot:147]    • GPU прискорення: ❌
+2025-11-04 21:01:34 [INFO] [bot:148] 
+2025-11-04 21:01:34 [INFO] [bot:149] ⚙️ Налаштування:
+2025-11-04 21:01:34 [INFO] [bot:150]    • Інтервал сканування: 2.0с
+2025-11-04 21:01:34 [INFO] [bot:151]    • Інтервал скріншотів: 5.0с
+2025-11-04 21:01:34 [INFO] [bot:152]    • CPU потоків: 12
+2025-11-04 21:01:34 [INFO] [bot:153]    • Масштабування скріншотів: 50%
+2025-11-04 21:01:34 [INFO] [bot:154] ================================================================================
+2025-11-04 21:01:34 [INFO] [main:84] 🎨 Ініціалізація графічного інтерфейсу...
+2025-11-04 21:01:35 [INFO] [main:87] ✅ Систему запущено успішно!
+2025-11-04 21:01:35 [INFO] [main:88] ================================================================================
+2025-11-04 21:01:35 [INFO] [main:89] 💡 ПОРАДИ ДЛЯ ПОЧАТКУ:
+2025-11-04 21:01:35 [INFO] [main:90]    1. Натисніть 'СТАРТ' для запуску моніторингу
+2025-11-04 21:01:35 [INFO] [main:91]    2. Встановіть 'ТОЧКУ ПОЛИВУ' через GUI
+2025-11-04 21:01:35 [INFO] [main:92]    3. Бот автоматично аналізує нижню 50% екрану
+2025-11-04 21:01:35 [INFO] [main:93]    4. Для зміни області натисніть 'ОБЛАСТЬ'
+2025-11-04 21:01:35 [INFO] [main:94] ================================================================================
+2025-11-04 21:01:59 [INFO] [bot:243] 🔄 Головний цикл моніторингу розпочато (FIXED)
+2025-11-04 21:01:59 [INFO] [bot:401] ▶️ Моніторинг запущено
+2025-11-04 21:01:59 [INFO] [bot:244] ⏱️ Параметри: сканування=2.0с, скріншоти=5.0с
+2025-11-04 21:01:59 [INFO] [bot:245] 🎯 Поріг впевненості: 15% (було 30%)
+2025-11-04 21:01:59 [DEBUG] [bot:258] 🔍 Скан #1...
+2025-11-04 21:02:00 [INFO] [bot:169] 🔄 Головний цикл розпочато
+2025-11-04 21:02:00 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 21:02:00 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1280x512 → 1800x720 (--97.8%)
+2025-11-04 21:02:00 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 21:02:00 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1800x720 → 1800x720 (-0.0%)
+2025-11-04 21:02:01 [DEBUG] [performance_optimizer:173] 💾 Збережено: screen_20251104_210200.jpg (1007 KB, PNG)
+2025-11-04 21:02:01 [DEBUG] [analyzer:235] 💾 Збережено: screen_20251104_210200.jpg
+2025-11-04 21:02:02 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 21:02:02 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_61c1eaeb_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_61c1eaeb', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 21:02:12 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_ejplbemf_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_ejplbemf', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 21:02:18 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_3s87y14h_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_3s87y14h', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 21:02:25 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_yq4dugd1_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_yq4dugd1', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 21:02:28 [INFO] [analyzer:254] 📱 Екран: unknown | Впевненість OCR: 51.2%
+2025-11-04 21:02:28 [DEBUG] [analyzer:428] 🎯 Паразит 'КОЛОРАДСКИЙ ЖУК' знайдено (нечітке)
+2025-11-04 21:02:28 [DEBUG] [analyzer:428] 🎯 Паразит 'ЖУК-ЩЕЛКУН' знайдено (нечітке)
+2025-11-04 21:02:28 [INFO] [analyzer:266] 🐛 ВИЯВЛЕНО ПАРАЗИТІВ: КОЛОРАДСКИЙ ЖУК, ЖУК-ЩЕЛКУН
+2025-11-04 21:02:28 [INFO] [analyzer:304] ✅ Аналіз: 🐛 2 паразит(ів): КОЛОРАДСКИЙ ЖУК, ЖУК-ЩЕЛКУН | 🎯 60% | Час: 28.96с
+2025-11-04 21:02:28 [INFO] [bot:267] 🔍 Скан #1: '= - Ж (od А» Te ae а о SSeS = St Ey = SS > Ех = > SESE oe 113 Е SS | a SS SE Se. BS 3S = че ar т — —— => = `. о at LY и ХА > «У ыы ie 5-3. a р We are ...'
+2025-11-04 21:02:28 [INFO] [bot:268]    📊 OCR: 51.2%, Загальна: 60.0%
+2025-11-04 21:02:28 [INFO] [bot:280]    🎯 🐛 2 паразит(ів): КОЛОРАДСКИЙ ЖУК, ЖУК-ЩЕЛКУН | 🎯 60%
+2025-11-04 21:02:28 [INFO] [bot:288] ✅ Впевненість 60.0% >= 15% - виконую дії
+2025-11-04 21:02:28 [INFO] [executor:80] 🐛 Виявлено 2 паразит(ів) - починаємо обробку
+2025-11-04 21:02:28 [INFO] [executor:147] 🧪 Обробка паразита: КОЛОРАДСКИЙ ЖУК
+2025-11-04 21:02:28 [INFO] [executor:148]    ├─ Категорія: біологічні
+2025-11-04 21:02:28 [INFO] [executor:149]    ├─ Клавіша: 4
+2025-11-04 21:02:28 [INFO] [executor:150]    ├─ Об'єм: 2.0-2.4л
+2025-11-04 21:02:28 [INFO] [executor:151]    └─ Тривалість: 120с
+2025-11-04 21:02:29 [INFO] [window_manager:431] ✅ Фокус встановлено! (успішність: 100.0%)
+2025-11-04 21:02:29 [DEBUG] [executor:196] ⌨️ Натиснуто клавішу '4'
+2025-11-04 21:02:30 [DEBUG] [executor:260] ⚙️ Встановлення: 2.2л
+2025-11-04 21:02:32 [DEBUG] [executor:276]    └─ Введено: 2,2л
+2025-11-04 21:02:32 [INFO] [executor:175] ✅ Паразита КОЛОРАДСКИЙ ЖУК оброблено (2.2л)
+2025-11-04 21:02:32 [INFO] [executor:147] 🧪 Обробка паразита: ЖУК-ЩЕЛКУН
+2025-11-04 21:02:32 [INFO] [executor:148]    ├─ Категорія: системні
+2025-11-04 21:02:32 [INFO] [executor:149]    ├─ Клавіша: 1
+2025-11-04 21:02:32 [INFO] [executor:150]    ├─ Об'єм: 1.0-1.6л
+2025-11-04 21:02:32 [INFO] [executor:151]    └─ Тривалість: 80с
+2025-11-04 21:02:33 [INFO] [window_manager:431] ✅ Фокус встановлено! (успішність: 100.0%)
+2025-11-04 21:02:33 [DEBUG] [executor:196] ⌨️ Натиснуто клавішу '1'
+2025-11-04 21:02:34 [DEBUG] [executor:260] ⚙️ Встановлення: 1.3л
+2025-11-04 21:02:36 [DEBUG] [executor:276]    └─ Введено: 1,3л
+2025-11-04 21:02:36 [INFO] [executor:175] ✅ Паразита ЖУК-ЩЕЛКУН оброблено (1.3л)
+2025-11-04 21:02:36 [INFO] [bot:401] ✅ Дію виконано (всього: 1)
+2025-11-04 21:02:36 [INFO] [bot:301] ✅ Дію виконано (всього: 1)
+2025-11-04 21:02:36 [INFO] [bot:366] ================================================================================
+2025-11-04 21:02:36 [INFO] [bot:367] 📊 СТАТИСТИКА (uptime: 0 хв)
+2025-11-04 21:02:36 [INFO] [bot:368]    🔍 Сканів: 1
+2025-11-04 21:02:36 [INFO] [bot:369]    ⚡ Дій: 1
+2025-11-04 21:02:36 [INFO] [bot:370]    🐛 Паразитів: 2
+2025-11-04 21:02:36 [INFO] [bot:371]    💧 Поливів: 0
+2025-11-04 21:02:36 [INFO] [bot:372]    ❌ Помилок: 0
+2025-11-04 21:02:36 [INFO] [bot:377]    📈 Ефективність: 100.0% (дій/скан)
+2025-11-04 21:02:36 [INFO] [bot:379] ================================================================================
+2025-11-04 21:02:36 [INFO] [performance_optimizer:327] ================================================================================
+2025-11-04 21:02:36 [INFO] [performance_optimizer:328] 📊 СТАТИСТИКА ПРОДУКТИВНОСТІ:
+2025-11-04 21:02:36 [INFO] [performance_optimizer:329]    💾 Скріншотів: 1
+2025-11-04 21:02:36 [INFO] [performance_optimizer:330]    🎯 Cache hit: 0.0%
+2025-11-04 21:02:36 [INFO] [performance_optimizer:331]    🎮 GPU: ❌ (0 ops)
+2025-11-04 21:02:36 [INFO] [performance_optimizer:332]    🧠 RAM: 76.1 MB
+2025-11-04 21:02:36 [INFO] [performance_optimizer:333] ================================================================================
+2025-11-04 21:02:36 [DEBUG] [bot:329] ⏸️ Очікування 0.1с до наступного скану...
+2025-11-04 21:02:36 [DEBUG] [bot:258] 🔍 Скан #2...
+2025-11-04 21:02:36 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 21:02:36 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1280x512 → 1800x720 (--97.8%)
+2025-11-04 21:02:36 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 21:02:36 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1800x720 → 1800x720 (-0.0%)
+2025-11-04 21:02:39 [DEBUG] [performance_optimizer:173] 💾 Збережено: screen_20251104_210236.jpg (962 KB, PNG)
+2025-11-04 21:02:39 [DEBUG] [analyzer:235] 💾 Збережено: screen_20251104_210236.jpg
+2025-11-04 21:02:41 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 21:02:41 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess__n8a74du_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess__n8a74du', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 21:02:43 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_u4b6__jr_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_u4b6__jr', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 21:02:45 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_o5yn9kmq_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_o5yn9kmq', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 21:02:47 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_3p0e8tqg_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_3p0e8tqg', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 21:02:48 [INFO] [analyzer:254] 📱 Екран: inventory | Впевненість OCR: 70.8%
+2025-11-04 21:02:48 [INFO] [analyzer:304] ✅ Аналіз: 🎯 30% | Час: 11.44с
+2025-11-04 21:02:48 [INFO] [bot:267] 🔍 Скан #2: 'є і al і) iy | 00 Oe al Пожалуйста; не флудите {i ОБ Al ~ | $ па Посажено, 6 . - Выбранное действие неприменимо к этому предмету, ПАРАЗИТЫ) (з Я...'
+2025-11-04 21:02:48 [INFO] [bot:268]    📊 OCR: 70.8%, Загальна: 30.0%
+2025-11-04 21:02:48 [INFO] [bot:275]    🔑 Ключові слова: паразит
+2025-11-04 21:02:48 [INFO] [bot:288] ✅ Впевненість 30.0% >= 15% - виконую дії
+2025-11-04 21:02:48 [DEBUG] [bot:303] ⏭️ Дій не виконано (cooldown або інше)
+2025-11-04 21:02:48 [DEBUG] [bot:329] ⏸️ Очікування 0.1с до наступного скану...
+2025-11-04 21:02:48 [DEBUG] [bot:258] 🔍 Скан #3...
+2025-11-04 21:02:48 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 21:02:48 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1280x512 → 1800x720 (--97.8%)
+2025-11-04 21:02:48 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 1800x720
+2025-11-04 21:02:48 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 1800x720 → 1800x720 (-0.0%)
+2025-11-04 21:02:50 [DEBUG] [performance_optimizer:173] 💾 Збережено: screen_20251104_210248.jpg (950 KB, PNG)
+2025-11-04 21:02:50 [DEBUG] [analyzer:235] 💾 Збережено: screen_20251104_210248.jpg
+2025-11-04 21:02:51 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 21:02:51 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_wdwyelb9_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_wdwyelb9', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 21:02:53 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess__ck40cus_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess__ck40cus', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 21:02:54 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_441wl7hl_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_441wl7hl', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 21:02:55 [DEBUG] [analyzer:372] OCR спроба (rus+eng): (3221225786, 'ObjectCache(00007fffcd2a6600)::~ObjectCache(): WARNING! LEAK! object 0000018ff558fca0 still has count 1 (id C:\\Program Files\\Tesseract-OCR/tessdata/rus.traineddatalstm-punc-dawg) ObjectCache(00007fffcd2a6600)::~ObjectCache(): WARNING! LEAK! object 0000018ff3abec00 still has count 1 (id C:\\Program Files\\Tesseract-OCR/tessdata/rus.traineddatalstm-word-dawg) ObjectCache(00007fffcd2a6600)::~ObjectCache(): WARNING! LEAK! object 0000018ff56d9f60 still has count 1 (id C:\\Program Files\\Tesseract-OCR/tessdata/rus.traineddatalstm-number-dawg) ObjectCache(00007fffcd2a6600)::~ObjectCache(): WARNING! LEAK! object 0000018ff58b7b90 still has count 1 (id C:\\Program Files\\Tesseract-OCR/tessdata/eng.traineddatalstm-punc-dawg) ObjectCache(00007fffcd2a6600)::~ObjectCache(): WARNING! LEAK! object 0000018ff581e740 still has count 1 (id C:\\Program Files\\Tesseract-OCR/tessdata/eng.traineddatalstm-word-dawg) ObjectCache(00007fffcd2a6600)::~ObjectCache(): WARNING! LEAK! object 0000018ff581e4a0 still has count 1 (id C:\\Program Files\\Tesseract-OCR/tessdata/eng.traineddatalstm-number-dawg)')
+2025-11-04 21:02:55 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_e6w0k1ct_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_e6w0k1ct', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 21:02:56 [INFO] [main:104] ⚠️ Перервано користувачем
+2025-11-04 21:02:56 [INFO] [main:120] 🛑 Зупинка бота...
+2025-11-04 21:02:56 [INFO] [bot:401] ⏹️ Зупинка...
+2025-11-04 21:02:56 [INFO] [bot:189] ⏹️ Ініціювання зупинки...
+2025-11-04 21:02:56 [INFO] [analyzer:254] 📱 Екран: unknown | Впевненість OCR: 65.2%
+2025-11-04 21:02:56 [INFO] [analyzer:304] ✅ Аналіз: 🎯 20% | Час: 8.02с
+2025-11-04 21:02:56 [INFO] [bot:267] 🔍 Скан #3: 'Б. Міжнародні пи ори | hot artifacts:an. == =— Re Oe Lio [tan] Й | =| а =e | фо па Посажено, 8--- BO) ГРЯДКА №4) — —— = (ii 9)...'
+2025-11-04 21:02:56 [INFO] [bot:268]    📊 OCR: 65.2%, Загальна: 20.0%
+2025-11-04 21:02:56 [INFO] [bot:288] ✅ Впевненість 20.0% >= 15% - виконую дії
+2025-11-04 21:02:56 [DEBUG] [executor:73] ⭐ Пропуск (низька впевненість: 20.0%)
+2025-11-04 21:02:56 [DEBUG] [bot:303] ⏭️ Дій не виконано (cooldown або інше)
+2025-11-04 21:02:56 [DEBUG] [bot:329] ⏸️ Очікування 0.1с до наступного скану...
+2025-11-04 21:02:56 [INFO] [bot:360] 🔄 Головний цикл завершено
+2025-11-04 21:02:56 [INFO] [bot:401] ========================================
+2025-11-04 21:02:56 [INFO] [bot:401] 📊 ФІНАЛЬНА СТАТИСТИКА
+2025-11-04 21:02:56 [INFO] [bot:401] ⏱️ Uptime: 0хв 56с
+2025-11-04 21:02:56 [INFO] [bot:401] 🔍 Сканів: 3
+2025-11-04 21:02:56 [INFO] [bot:401] ⚡ Дій: 1
+2025-11-04 21:02:56 [INFO] [bot:401] 🐛 Паразитів: 2
+2025-11-04 21:02:56 [INFO] [bot:401] ❌ Помилок: 0
+2025-11-04 21:02:56 [INFO] [bot:401] ========================================
+2025-11-04 21:02:56 [INFO] [performance_optimizer:327] ================================================================================
+2025-11-04 21:02:56 [INFO] [performance_optimizer:328] 📊 СТАТИСТИКА ПРОДУКТИВНОСТІ:
+2025-11-04 21:02:56 [INFO] [performance_optimizer:329]    💾 Скріншотів: 3
+2025-11-04 21:02:56 [INFO] [performance_optimizer:330]    🎯 Cache hit: 0.0%
+2025-11-04 21:02:56 [INFO] [performance_optimizer:331]    🎮 GPU: ❌ (0 ops)
+2025-11-04 21:02:56 [INFO] [performance_optimizer:332]    🧠 RAM: 69.1 MB
+2025-11-04 21:02:56 [INFO] [performance_optimizer:333] ================================================================================
+2025-11-04 21:02:56 [INFO] [performance_optimizer:361] ✅ Performance Optimizer завершено
+2025-11-04 21:02:56 [INFO] [smart_inventory:380] ============================================================
+2025-11-04 21:02:56 [INFO] [smart_inventory:381] 📊 СТАТИСТИКА ІНВЕНТАРЯ:
+2025-11-04 21:02:56 [INFO] [smart_inventory:382]    🔍 Пошуків виконано: 0
+2025-11-04 21:02:56 [INFO] [smart_inventory:383]    🧪 Хімікатів знайдено: 0
+2025-11-04 21:02:56 [INFO] [smart_inventory:384]    💧 Перевірок лейки: 0
+2025-11-04 21:02:56 [INFO] [smart_inventory:385] ============================================================
+2025-11-04 21:02:56 [INFO] [analyzer:590] ================================================================================
+2025-11-04 21:02:56 [INFO] [analyzer:591] 📊 СТАТИСТИКА АНАЛІЗАТОРА:
+2025-11-04 21:02:56 [INFO] [analyzer:592]    🔍 Сканів: 3 (успішних: 1, 33.3%)
+2025-11-04 21:02:56 [INFO] [analyzer:593]    🐛 Паразитів виявлено: 2
+2025-11-04 21:02:56 [INFO] [analyzer:594]    💧 Попереджень про воду: 0
+2025-11-04 21:02:56 [INFO] [analyzer:595]    ⏱️ Середній час аналізу: 10492.4ms
+2025-11-04 21:02:56 [INFO] [analyzer:596]    🎮 Контекст: Локація: unknown | Полито: 0 | Оброблено: 2 | Вода: unknown | Дій: 2
+2025-11-04 21:02:56 [INFO] [analyzer:597] ================================================================================
+2025-11-04 21:02:56 [INFO] [executor:379] ================================================================================
+2025-11-04 21:02:56 [INFO] [executor:380] 📊 СТАТИСТИКА ВИКОНАВЦЯ:
+2025-11-04 21:02:56 [INFO] [executor:381]    🐛 Паразитів оброблено: 2
+2025-11-04 21:02:56 [INFO] [executor:382]    💧 Поливів виконано: 0
+2025-11-04 21:02:56 [INFO] [executor:383]    🚰 Поповнень води: 0
+2025-11-04 21:02:56 [INFO] [executor:384]    ❌ Невдалих дій: 0
+2025-11-04 21:02:56 [INFO] [executor:385]    ✅ Всього дій: 2
+2025-11-04 21:02:56 [INFO] [executor:386]    📍 Точка поливу: ❌ Не встановлена
+2025-11-04 21:02:56 [INFO] [executor:387]    🔄 Наступна перевірка води через: 5 поливів
+2025-11-04 21:02:56 [INFO] [executor:388] ================================================================================
+2025-11-04 21:02:56 [INFO] [bot:401] ⏹️ Зупинено
+2025-11-04 21:02:56 [INFO] [bot:215] ✅ Бот успішно зупинено
+2025-11-04 21:02:56 [INFO] [main:125] ================================================================================
+2025-11-04 21:02:56 [INFO] [main:126] ✅ Plant Care Bot завершено
+2025-11-04 21:02:56 [INFO] [main:127] ================================================================================
+2025-11-04 21:14:05 [INFO] [config:294] ================================================================================
+2025-11-04 21:14:05 [INFO] [config:295] 🌱 Plant Care Bot v2.1 - ENHANCED EDITION
+2025-11-04 21:14:05 [INFO] [config:296] ================================================================================
+2025-11-04 21:14:05 [INFO] [config:297] 💾 Логи зберігаються в: logs\bot_20251104.log
+2025-11-04 21:14:05 [INFO] [config:298] 📸 Скріншоти: logs\screenshots
+2025-11-04 21:14:05 [INFO] [config:299] ⚙️ Конфіг: tasks.txt
+2025-11-04 21:14:05 [INFO] [config:300] 🎮 GPU прискорення: ✅ УВІМКНЕНО
+2025-11-04 21:14:05 [INFO] [config:301] 🧵 CPU потоків: 12
+2025-11-04 21:14:05 [INFO] [config:302] ================================================================================
+2025-11-04 21:14:05 [INFO] [main:71] 🔍 Перевірка системних вимог...
+2025-11-04 21:14:05 [WARNING] [main:40] ⚠️ OpenCV CUDA недоступний - використовується CPU
+2025-11-04 21:14:05 [INFO] [main:41] 💡 Для GPU прискорення встановіть: pip install opencv-contrib-python
+2025-11-04 21:14:05 [INFO] [main:77] ✅ Системні вимоги виконані
+2025-11-04 21:14:05 [INFO] [main:80] 🔧 Ініціалізація Plant Care Bot...
+2025-11-04 21:14:05 [INFO] [config:294] ================================================================================
+2025-11-04 21:14:05 [INFO] [config:295] 🌱 Plant Care Bot v2.1 - ENHANCED EDITION
+2025-11-04 21:14:05 [INFO] [config:296] ================================================================================
+2025-11-04 21:14:05 [INFO] [config:297] 💾 Логи зберігаються в: logs\bot_20251104.log
+2025-11-04 21:14:05 [INFO] [config:298] 📸 Скріншоти: logs\screenshots
+2025-11-04 21:14:05 [INFO] [config:299] ⚙️ Конфіг: tasks.txt
+2025-11-04 21:14:05 [INFO] [config:300] 🎮 GPU прискорення: ✅ УВІМКНЕНО
+2025-11-04 21:14:05 [INFO] [config:301] 🧵 CPU потоків: 12
+2025-11-04 21:14:05 [INFO] [config:302] ================================================================================
+2025-11-04 21:14:05 [INFO] [bot:38] 🚀 Ініціалізація Plant Care Bot v2.1 ENHANCED (FIXED)...
+2025-11-04 21:14:05 [INFO] [bot:109] ✅ Tesseract версія: 5.5.0.20241111
+2025-11-04 21:14:05 [INFO] [bot:120] ✅ Мови: ukr, rus, eng
+2025-11-04 21:14:05 [INFO] [bot:45] ⚙️ Завантаження конфігурації...
+2025-11-04 21:14:05 [INFO] [config:173] 📌 Діапазон води: 5.0-7.0л
+2025-11-04 21:14:05 [INFO] [config:178] 📌 Кількість з добривом: 0.95л
+2025-11-04 21:14:05 [INFO] [config:183] 📌 Базовий полив: 5.0л
+2025-11-04 21:14:05 [INFO] [config:188] 📌 Грунт: 85%
+2025-11-04 21:14:05 [INFO] [config:190] ✅ Конфігурацію завантажено: 10 паразитів
+2025-11-04 21:14:05 [INFO] [bot:49] 🔧 Ініціалізація компонентів...
+2025-11-04 21:14:05 [WARNING] [performance_optimizer:72] ⚠️ CUDA недоступна, використовується CPU
+2025-11-04 21:14:05 [INFO] [performance_optimizer:87] ================================================================================
+2025-11-04 21:14:05 [INFO] [performance_optimizer:88] ⚙️ СИСТЕМНА ІНФОРМАЦІЯ:
+2025-11-04 21:14:05 [INFO] [performance_optimizer:89]    CPU: 6P+6E cores
+2025-11-04 21:14:05 [INFO] [performance_optimizer:90]    RAM: 15.8 GB
+2025-11-04 21:14:05 [INFO] [performance_optimizer:91]    GPU: ❌ CPU only
+2025-11-04 21:14:05 [INFO] [performance_optimizer:92] ================================================================================
+2025-11-04 21:14:05 [INFO] [window_manager:68] 🪟 Window Manager ініціалізовано для 'amazing.exe'
+2025-11-04 21:14:05 [INFO] [window_manager:69]    📌 Always on Top: ✅ ENABLED
+2025-11-04 21:14:05 [INFO] [window_manager:70]    🔄 Автоматичний фокус: ✅ ENABLED
+2025-11-04 21:14:05 [INFO] [window_manager:113] 🎮 Знайдено: 'AMAZING ONLINE' [160x28px]
+2025-11-04 21:14:05 [DEBUG] [window_manager:114]    Position: (-32000, -32000)
+2025-11-04 21:14:05 [DEBUG] [window_manager:115]    Foreground: False
+2025-11-04 21:14:05 [DEBUG] [window_manager:116]    Visible: 1
+2025-11-04 21:14:05 [INFO] [window_manager:134] ✅ Вибрано: 'AMAZING ONLINE'
+2025-11-04 21:14:05 [INFO] [window_manager:135]    📐 Розмір: 160x28px
+2025-11-04 21:14:05 [INFO] [window_manager:136]    📍 Позиція: (-32000, -32000)
+2025-11-04 21:14:05 [WARNING] [window_manager:183] ⚠️ Не вдалося увімкнути Always on Top
+2025-11-04 21:14:05 [INFO] [smart_inventory:51] ✅ Завантажено хімікати: (103, 403, 3)
+2025-11-04 21:14:05 [INFO] [smart_inventory:60] ✅ Завантажено повну лейку: (99, 105, 3)
+2025-11-04 21:14:05 [INFO] [smart_inventory:69] ✅ Завантажено пусту лейку: (105, 88, 3)
+2025-11-04 21:14:05 [INFO] [smart_inventory:73] 📦 Завантажено шаблонів: 3
+2025-11-04 21:14:05 [INFO] [smart_inventory:41] 🎒 Ініціалізовано Smart Inventory
+2025-11-04 21:14:05 [INFO] [analyzer:155] 🔍 Ініціалізовано Smart Analyzer (FIXED VERSION)
+2025-11-04 21:14:05 [INFO] [executor:60] ⚡ Ініціалізовано Smart Executor
+2025-11-04 21:14:05 [INFO] [window_manager:113] 🎮 Знайдено: 'AMAZING ONLINE' [160x28px]
+2025-11-04 21:14:05 [DEBUG] [window_manager:114]    Position: (-32000, -32000)
+2025-11-04 21:14:05 [DEBUG] [window_manager:115]    Foreground: False
+2025-11-04 21:14:05 [DEBUG] [window_manager:116]    Visible: 1
+2025-11-04 21:14:05 [INFO] [window_manager:134] ✅ Вибрано: 'AMAZING ONLINE'
+2025-11-04 21:14:05 [INFO] [window_manager:135]    📐 Розмір: 160x28px
+2025-11-04 21:14:05 [INFO] [window_manager:136]    📍 Позиція: (-32000, -32000)
+2025-11-04 21:14:05 [WARNING] [window_manager:183] ⚠️ Не вдалося увімкнути Always on Top
+2025-11-04 21:14:05 [INFO] [analyzer:167] 🎮 Автоматично встановлено UI область гри через Window Manager
+2025-11-04 21:14:05 [INFO] [bot:100] ✅ Бот успішно ініціалізовано!
+2025-11-04 21:14:05 [INFO] [bot:133] ================================================================================
+2025-11-04 21:14:05 [INFO] [bot:134] 🌱 PLANT CARE BOT v2.1 - ГОТОВИЙ ДО РОБОТИ (FIXED)
+2025-11-04 21:14:05 [INFO] [bot:135] ================================================================================
+2025-11-04 21:14:05 [INFO] [bot:136] 📝 Конфігурація:
+2025-11-04 21:14:05 [INFO] [bot:137]    • Паразитів у базі: 10
+2025-11-04 21:14:05 [INFO] [bot:138]    • Базовий полив: 5.0л
+2025-11-04 21:14:05 [INFO] [bot:139]    • З добривом: 0.95л
+2025-11-04 21:14:05 [INFO] [bot:140]    • Діапазон води: 5.0-7.0л
+2025-11-04 21:14:05 [INFO] [bot:141]    • Рівень грунту: 85%
+2025-11-04 21:14:05 [INFO] [bot:142] 
+2025-11-04 21:14:05 [INFO] [bot:143] 🎮 Компоненти:
+2025-11-04 21:14:05 [INFO] [bot:144]    • Window Manager: ✅
+2025-11-04 21:14:05 [INFO] [bot:145]    • Smart Inventory: ✅
+2025-11-04 21:14:05 [INFO] [bot:146]    • Performance Optimizer: ✅
+2025-11-04 21:14:05 [INFO] [bot:147]    • GPU прискорення: ❌
+2025-11-04 21:14:05 [INFO] [bot:148] 
+2025-11-04 21:14:05 [INFO] [bot:149] ⚙️ Налаштування:
+2025-11-04 21:14:05 [INFO] [bot:150]    • Інтервал сканування: 2.0с
+2025-11-04 21:14:05 [INFO] [bot:151]    • Інтервал скріншотів: 5.0с
+2025-11-04 21:14:05 [INFO] [bot:152]    • CPU потоків: 12
+2025-11-04 21:14:05 [INFO] [bot:153]    • Масштабування скріншотів: 50%
+2025-11-04 21:14:05 [INFO] [bot:154] ================================================================================
+2025-11-04 21:14:05 [INFO] [main:84] 🎨 Ініціалізація графічного інтерфейсу...
+2025-11-04 21:14:07 [INFO] [main:87] ✅ Систему запущено успішно!
+2025-11-04 21:14:07 [INFO] [main:88] ================================================================================
+2025-11-04 21:14:07 [INFO] [main:89] 💡 ПОРАДИ ДЛЯ ПОЧАТКУ:
+2025-11-04 21:14:07 [INFO] [main:90]    1. Натисніть 'СТАРТ' для запуску моніторингу
+2025-11-04 21:14:07 [INFO] [main:91]    2. Встановіть 'ТОЧКУ ПОЛИВУ' через GUI
+2025-11-04 21:14:07 [INFO] [main:92]    3. Бот автоматично аналізує нижню 50% екрану
+2025-11-04 21:14:07 [INFO] [main:93]    4. Для зміни області натисніть 'ОБЛАСТЬ'
+2025-11-04 21:14:07 [INFO] [main:94] ================================================================================
+2025-11-04 21:14:25 [INFO] [bot:243] 🔄 Головний цикл моніторингу розпочато (FIXED)
+2025-11-04 21:14:25 [INFO] [bot:401] ▶️ Моніторинг запущено
+2025-11-04 21:14:25 [INFO] [bot:244] ⏱️ Параметри: сканування=2.0с, скріншоти=5.0с
+2025-11-04 21:14:25 [INFO] [bot:245] 🎯 Поріг впевненості: 15% (було 30%)
+2025-11-04 21:14:25 [DEBUG] [bot:258] 🔍 Скан #1...
+2025-11-04 21:14:25 [INFO] [bot:169] 🔄 Головний цикл розпочато
+2025-11-04 21:14:25 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 8228x720
+2025-11-04 21:14:25 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 160x14 → 8228x720 (--264371.4%)
+2025-11-04 21:14:25 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 8228x720
+2025-11-04 21:14:25 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 8228x720 → 8228x720 (-0.0%)
+2025-11-04 21:14:25 [DEBUG] [performance_optimizer:173] 💾 Збережено: screen_20251104_211425.jpg (17 KB, PNG)
+2025-11-04 21:14:25 [DEBUG] [analyzer:235] 💾 Збережено: screen_20251104_211425.jpg
+2025-11-04 21:14:30 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 21:14:30 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_0ry15bwq_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_0ry15bwq', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 21:14:31 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_k7d7vu2o_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_k7d7vu2o', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 21:14:32 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_w5tsyg60_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_w5tsyg60', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 21:14:32 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_jwszs69r_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_jwszs69r', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 21:14:32 [DEBUG] [analyzer:244] ⏭️ Текст не розпізнано на кадрі
+2025-11-04 21:14:33 [DEBUG] [bot:282] ⏭️ Скан #1: текст не знайдено
+2025-11-04 21:14:33 [WARNING] [bot:306] ⏭️ ПРОПУСК: впевненість 0.0% < 15%
+2025-11-04 21:14:33 [INFO] [bot:366] ================================================================================
+2025-11-04 21:14:33 [INFO] [bot:367] 📊 СТАТИСТИКА (uptime: 0 хв)
+2025-11-04 21:14:33 [INFO] [bot:368]    🔍 Сканів: 1
+2025-11-04 21:14:33 [INFO] [bot:369]    ⚡ Дій: 0
+2025-11-04 21:14:33 [INFO] [bot:370]    🐛 Паразитів: 0
+2025-11-04 21:14:33 [INFO] [bot:371]    💧 Поливів: 0
+2025-11-04 21:14:33 [INFO] [bot:372]    ❌ Помилок: 0
+2025-11-04 21:14:33 [INFO] [bot:377]    📈 Ефективність: 0.0% (дій/скан)
+2025-11-04 21:14:33 [INFO] [bot:379] ================================================================================
+2025-11-04 21:14:33 [INFO] [performance_optimizer:327] ================================================================================
+2025-11-04 21:14:33 [INFO] [performance_optimizer:328] 📊 СТАТИСТИКА ПРОДУКТИВНОСТІ:
+2025-11-04 21:14:33 [INFO] [performance_optimizer:329]    💾 Скріншотів: 1
+2025-11-04 21:14:33 [INFO] [performance_optimizer:330]    🎯 Cache hit: 0.0%
+2025-11-04 21:14:33 [INFO] [performance_optimizer:331]    🎮 GPU: ❌ (0 ops)
+2025-11-04 21:14:33 [INFO] [performance_optimizer:332]    🧠 RAM: 75.0 MB
+2025-11-04 21:14:33 [INFO] [performance_optimizer:333] ================================================================================
+2025-11-04 21:14:33 [DEBUG] [bot:329] ⏸️ Очікування 0.1с до наступного скану...
+2025-11-04 21:14:33 [DEBUG] [bot:258] 🔍 Скан #2...
+2025-11-04 21:14:33 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 8228x720
+2025-11-04 21:14:33 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 160x14 → 8228x720 (--264371.4%)
+2025-11-04 21:14:33 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 8228x720
+2025-11-04 21:14:33 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 8228x720 → 8228x720 (-0.0%)
+2025-11-04 21:14:33 [DEBUG] [performance_optimizer:173] 💾 Збережено: screen_20251104_211433.jpg (17 KB, PNG)
+2025-11-04 21:14:33 [DEBUG] [analyzer:235] 💾 Збережено: screen_20251104_211433.jpg
+2025-11-04 21:14:39 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 21:14:39 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_7wpm9y9f_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_7wpm9y9f', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 21:14:40 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_iv0cxi9n_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_iv0cxi9n', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 21:14:40 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_7qo59h6e_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_7qo59h6e', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 21:14:41 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_7__u3fj8_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_7__u3fj8', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 21:14:41 [DEBUG] [analyzer:244] ⏭️ Текст не розпізнано на кадрі
+2025-11-04 21:14:41 [DEBUG] [bot:282] ⏭️ Скан #2: текст не знайдено
+2025-11-04 21:14:41 [WARNING] [bot:306] ⏭️ ПРОПУСК: впевненість 0.0% < 15%
+2025-11-04 21:14:41 [DEBUG] [bot:329] ⏸️ Очікування 0.1с до наступного скану...
+2025-11-04 21:14:41 [DEBUG] [bot:258] 🔍 Скан #3...
+2025-11-04 21:14:41 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 8228x720
+2025-11-04 21:14:41 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 160x14 → 8228x720 (--264371.4%)
+2025-11-04 21:14:41 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 8228x720
+2025-11-04 21:14:41 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 8228x720 → 8228x720 (-0.0%)
+2025-11-04 21:14:42 [DEBUG] [performance_optimizer:173] 💾 Збережено: screen_20251104_211441.jpg (17 KB, PNG)
+2025-11-04 21:14:42 [DEBUG] [analyzer:235] 💾 Збережено: screen_20251104_211441.jpg
+2025-11-04 21:14:48 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 21:14:48 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_4rcx2qdu_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_4rcx2qdu', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 21:14:49 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_6ab6o7d5_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_6ab6o7d5', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 21:14:51 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_5vm2qx_l_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_5vm2qx_l', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 21:14:52 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_cxe3mbd4_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_cxe3mbd4', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 21:14:52 [DEBUG] [analyzer:244] ⏭️ Текст не розпізнано на кадрі
+2025-11-04 21:14:52 [DEBUG] [bot:282] ⏭️ Скан #3: текст не знайдено
+2025-11-04 21:14:52 [WARNING] [bot:306] ⏭️ ПРОПУСК: впевненість 0.0% < 15%
+2025-11-04 21:14:52 [DEBUG] [bot:329] ⏸️ Очікування 0.1с до наступного скану...
+2025-11-04 21:14:52 [DEBUG] [bot:258] 🔍 Скан #4...
+2025-11-04 21:14:52 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 8228x720
+2025-11-04 21:14:52 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 160x14 → 8228x720 (--264371.4%)
+2025-11-04 21:14:52 [WARNING] [performance_optimizer:123] ⚠️ Підняли розмір до мінімуму: 8228x720
+2025-11-04 21:14:52 [DEBUG] [performance_optimizer:137] 📐 Масштабування: 8228x720 → 8228x720 (-0.0%)
+2025-11-04 21:14:53 [DEBUG] [performance_optimizer:173] 💾 Збережено: screen_20251104_211452.jpg (17 KB, PNG)
+2025-11-04 21:14:53 [DEBUG] [analyzer:235] 💾 Збережено: screen_20251104_211452.jpg
+2025-11-04 21:14:59 [DEBUG] [performance_optimizer:229] 📝 OCR preprocessing: AGGRESSIVE
+2025-11-04 21:14:59 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_y22e2vdq_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_y22e2vdq', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 21:15:00 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_5xj98ki8_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_5xj98ki8', '-l', 'ukr+rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '11', '--oem', '3']
+2025-11-04 21:15:01 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_b2p_axql_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_b2p_axql', '-l', 'rus+eng', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 21:15:02 [DEBUG] [pytesseract:272] ['C:\\Program Files\\Tesseract-OCR\\tesseract.exe', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_1u_o08bm_input.PNG', 'C:\\Users\\petya\\AppData\\Local\\Temp\\tess_1u_o08bm', '-l', 'ukr', '-c', 'tessedit_create_tsv=1', '--psm', '6', '--oem', '3']
+2025-11-04 21:15:03 [DEBUG] [analyzer:244] ⏭️ Текст не розпізнано на кадрі
+2025-11-04 21:15:03 [DEBUG] [bot:282] ⏭️ Скан #4: текст не знайдено

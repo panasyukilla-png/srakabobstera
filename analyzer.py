@@ -1,5 +1,5 @@
 """
-analyzer.py - Розумний аналізатор з контекстним розумінням гри
+analyzer.py - Розумний аналізатор з контекстним розумінням гри - ВИПРАВЛЕНО
 """
 import time
 import re
@@ -119,7 +119,7 @@ class ScreenAnalysis:
 
 # ======================== РОЗУМНИЙ АНАЛІЗАТОР ========================
 class SmartAnalyzer:
-    """Розумний аналізатор з контекстним розумінням."""
+    """Розумний аналізатор з контекстним розумінням - ВИПРАВЛЕНО."""
     
     def __init__(self, config: TaskConfig, window_manager=None, performance_optimizer=None):
         self.config = config
@@ -152,7 +152,7 @@ class SmartAnalyzer:
             'avg_analysis_time': 0.0
         }
         
-        logging.info("🔍 Ініціалізовано Smart Analyzer")
+        logging.info("🔍 Ініціалізовано Smart Analyzer (FIXED VERSION)")
     
     def set_analysis_region(self, x1: int, y1: int, x2: int, y2: int):
         """Встановлення області аналізу."""
@@ -201,7 +201,7 @@ class SmartAnalyzer:
             return None
     
     def analyze_screen(self, save_screenshot: bool = True) -> ScreenAnalysis:
-        """Головний метод аналізу екрану."""
+        """Головний метод аналізу екрану - ВИПРАВЛЕНО з детальним логуванням."""
         start_time = time.time()
         self.stats['scans_total'] += 1
         
@@ -253,9 +253,35 @@ class SmartAnalyzer:
         
         logging.info(f"📱 Екран: {analysis.current_screen} | Впевненість OCR: {confidence:.1%}")
         
+        # ========== ДЕТАЛЬНА ДІАГНОСТИКА (НОВЕ!) ==========
+        logging.info("=" * 80)
+        logging.info("🔍 ДЕТАЛЬНА ДІАГНОСТИКА АНАЛІЗУ:")
+        logging.info(f"   📝 Текст розпізнано: {len(text)} символів")
+        logging.info(f"   📄 Рядків: {len(lines)}")
+        logging.info(f"   🎯 Впевненість OCR: {confidence:.1%}")
+        
+        if text:
+            # Показуємо перші 300 символів
+            preview = text[:300].replace('\n', ' | ')
+            logging.info(f"   📋 Приклад тексту: '{preview}...'")
+            
+            # Пошук ключових слів
+            keywords = ['полив', 'вода', 'рослин', 'грунт', 'добрив', 'літр', 'паразит',
+                       'тля', 'слизн', 'жук', 'медвед', 'трипс', 'клещ', 'нематод', 'проволочник',
+                       'кравчик', 'щелкун', 'колорадск']
+            found_keywords = [kw for kw in keywords if kw in text.lower()]
+            if found_keywords:
+                logging.info(f"   🔑 Знайдено ключові слова: {', '.join(found_keywords)}")
+            else:
+                logging.warning(f"   ⚠️ ЖОДНОГО ключового слова не знайдено!")
+                logging.warning(f"   💡 Можливо потрібно покращити область аналізу або якість OCR")
+        
         # Пошук паразитів (покращена логіка)
         parasites = self._detect_parasites(text_lower, lines)
         analysis.parasites_found = parasites
+        
+        parasites_info = ", ".join([p.name for p in parasites]) if parasites else "немає"
+        logging.info(f"   🐛 Паразити: {parasites_info}")
         
         if parasites:
             for p in parasites:
@@ -270,6 +296,11 @@ class SmartAnalyzer:
         analysis.water_level_low = water_info['low']
         analysis.water_amount_needed = water_info.get('amount')
         
+        logging.info(f"   💧 Низька вода: {water_info['low']}")
+        logging.info(f"   📊 Кількість води: {water_info.get('amount', 'не визначено')}")
+        if water_info.get('keywords'):
+            logging.info(f"   🔍 Ключові слова води: {', '.join(water_info['keywords'])}")
+        
         if water_info['low']:
             self.stats['water_warnings'] += 1
             self.game_context.water_level = "low"
@@ -277,25 +308,32 @@ class SmartAnalyzer:
         
         # Перевірка добрива
         analysis.needs_fertilizer = self._check_fertilizer_need(text_lower, lines)
+        if analysis.needs_fertilizer:
+            logging.info(f"   🌱 Потрібне добриво: ТАК")
         
         # Рівень грунту
         soil = self._parse_soil_level(text_lower)
         if soil:
             analysis.soil_level = soil
-            logging.info(f"🌍 Рівень грунту: {soil}%")
+            logging.info(f"   🌍 Рівень грунту: {soil}%")
         
         # UI елементи
         ui_elements = self._detect_ui_elements(text_lower, lines)
         analysis.ui_elements_detected = ui_elements
+        logging.info(f"   🎮 UI елементи: {len(ui_elements)} - {', '.join(ui_elements) if ui_elements else 'немає'}")
         
-        # Розрахунок впевненості
+        # Розрахунок впевненості (ПОКРАЩЕНО!)
         confidence_score = self._calculate_confidence(analysis)
         analysis.confidence = confidence_score
+        
+        logging.info(f"   ⭐ Загальна впевненість: {confidence_score:.1%}")
+        logging.info("=" * 80)
+        # ========== КІНЕЦЬ ДІАГНОСТИКИ ==========
         
         analysis.analysis_time = time.time() - start_time
         self.stats['avg_analysis_time'] = (self.stats['avg_analysis_time'] + analysis.analysis_time) / 2
         
-        if analysis.confidence > 0.3:
+        if analysis.confidence > 0.15:  # Знижений поріг
             self.stats['scans_successful'] += 1
         
         # Логування
@@ -530,29 +568,44 @@ class SmartAnalyzer:
         return elements
     
     def _calculate_confidence(self, analysis: ScreenAnalysis) -> float:
-        """Розрахунок загальної впевненості аналізу."""
+        """Розрахунок загальної впевненості аналізу - ПОКРАЩЕНО."""
         score = 0.0
         
-        # OCR якість
-        if analysis.text_confidence > 0.7:
-            score += 0.3
-        elif analysis.text_confidence > 0.5:
-            score += 0.2
-        elif analysis.text_confidence > 0.3:
-            score += 0.1
+        # 1. БАЗОВА ВПЕВНЕНІСТЬ ВІД OCR (більш лояльно)
+        if analysis.text_confidence > 0.6:  # Було 0.7
+            score += 0.4  # Було 0.3
+        elif analysis.text_confidence > 0.4:  # Було 0.5
+            score += 0.3  # Було 0.2
+        elif analysis.text_confidence > 0.2:  # Було 0.3
+            score += 0.2  # Було 0.1
         
-        # Виявлені об'єкти
+        # 2. БОНУС ЗА ТЕКСТ (якщо щось розпізнано)
+        if analysis.text and len(analysis.text) > 10:
+            score += 0.1  # Додатковий бонус
+        
+        # 3. Виявлені паразити
         if analysis.parasites_found:
             score += 0.4
         
+        # 4. Низька вода
         if analysis.water_level_low:
             score += 0.2
         
+        # 5. Кількість води
         if analysis.water_amount_needed:
             score += 0.1
         
+        # 6. UI елементи
         if analysis.ui_elements_detected:
             score += 0.1
+        
+        # НОВE: Логування для діагностики
+        logging.debug(f"📊 Розрахунок впевненості:")
+        logging.debug(f"   • OCR: {analysis.text_confidence:.1%} → базовий score")
+        logging.debug(f"   • Текст довжина: {len(analysis.text)} → +{0.1 if len(analysis.text) > 10 else 0}")
+        logging.debug(f"   • Паразити: {len(analysis.parasites_found)} → +{0.4 if analysis.parasites_found else 0}")
+        logging.debug(f"   • Вода: {analysis.water_level_low} → +{0.2 if analysis.water_level_low else 0}")
+        logging.debug(f"   • Загальна: {min(score, 1.0):.1%}")
         
         return min(score, 1.0)
     
